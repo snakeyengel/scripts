@@ -1,0 +1,578 @@
+$VAR1 = {
+          'Attributes' => {
+                          'Attribute' => [
+                                         {
+                                           'AttrName' => 'Category',
+                                           'AttrValue' => 'Project.EW.Service',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Description',
+                                           'AttrValue' => "MED-100009
+Georgia Clinic 
+6330 Primrose Hill Ct, Ste 102
+Norcross, GA 30092
+
+Office Contact: Hetal Barmar
+Contact Phone: (770) 903-0144
+Office Phone: (770) 903-0144 x120013001400
+Office Fax: (770) 825-0011
+
+IT Contact: Raji (678) 523-1562 Jeff Page cell (404) 936-5800
+IT Contact Phone: 
+Contact Email: rajivgos\@gmail.com
+
+HD Replacement
+Please send out tech to replace the HD on player at this site. HARD DRIVE WILL BE SHIPPED TO TECH. DO NOT GO ONSITE WITHOUT IT. Follow Hard Drive Replacement SOW. Make sure tech has a peerless tool (found at any Harbor Freight )
+Security Bit Set
+or 4mm hollow allen wrench tip plus extension to unlock security bolts from tv. If a CR2032 battery is included in the shipment then tech needs to replace it as well. Tech is to take USB keyboard and mouse, ladder and CAT5 cable, if necessary. Do not use the waiting room furniture to stand on! Laptop is also handy to see if you can ping outside the network . Once player is removed from wall and the cover is off, tech is to cut and remove plastic protector over battery. Install new battery -Positive side faces towards the inside of the player.
+NOTE: This will reset date and time so BIOS setup will be necessary: 
+\x{2022}	Boot Player : make sure USB keyboard and mouse are plugged in
+\x{2022}	Press delete key multiple times until \x{2026}..up.
+\x{2022}	Press enter on the setup prompt that is highlighted, then change date and time by using + and - keys. Please remember to use military time for your PM hours.
+\x{2022}	NEXT go back to the main screen and arrow down to Advanced Power Management
+\x{2022}	Choose Power Management Recovery on Power Loss
+\x{2022}	Set to\" Former State\" and Enter
+\x{2022}	F10 to save and Enter to exit. Device will boot.
+NEXT YOU MUST GO INTO WINDOWS AND SET THE TIME ZONE:
+To exit the application if video is playing:
+Press Crtl+Shift+E
+Passphrase: gzewrsu9
+
+Then press Crtl+Alt+Del
+then Spacebar and Spacebar again
+
+Normal Administrator Login:
+Username: medivistaadmin
+Password: D3TZ7axE
+
+Control Panel, Date& Time, Time Zone. Apply
+
+**Please take pictures of the following:
+\x{2022}	player mounted on the wall so we can see the cabling, then another
+\x{2022}	picture of the tv mounted and playing
+\x{2022}	Network closet, router, Everwell cable
+
+Call Everwell for checkout: 866.826.1176
+
+Note: Tech must show site contact where player is located and how to reboot it before leaving site. Please also tell them their MED# plus our tech support hotline to call when they have problems: 866.826.1176
+",
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Event Date',
+                                           'AttrValue' => '1/23/2012 11:00:00 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Open Date',
+                                           'AttrValue' => '1/12/2012 2:20:47 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'ISSUE',
+                                           'AttrValue' => 'U42258',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Ext. Ref Num',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Status',
+                                           'AttrValue' => 'Cancelled',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Summary',
+                                           'AttrValue' => 'Swap Hard Drive for Media Player',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Check In',
+                                           'AttrValue' => {},
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Check Out',
+                                           'AttrValue' => {},
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Client Status',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Comp. w/except.',
+                                           'AttrValue' => '0',
+                                           'DataType' => '2005'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Code',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Detail',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'City',
+                                           'AttrValue' => 'Norcross',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location',
+                                           'AttrValue' => 'EW-MED-100009',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'State',
+                                           'AttrValue' => 'GA',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location Type',
+                                           'AttrValue' => 'TVM-SONY-32"-FWD-32',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location TZ',
+                                           'AttrValue' => 'Eastern Time (EST/EDT)',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project',
+                                           'AttrValue' => '710',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project Name',
+                                           'AttrValue' => 'Everwell-Service Calls',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Release Num',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Notes',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Status',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         }
+                                       ]
+                        },
+          'Handle' => 'iss:441010'
+        };
+
+$VAR1 = {
+          'Attributes' => {
+                          'Attribute' => [
+                                         {
+                                           'AttrName' => 'Category',
+                                           'AttrValue' => 'Project.EW.Install',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Description',
+                                           'AttrValue' => 'Tech will need to revisit to install a power brick, power cords and panduit in order to complete the install.
+
+tech must test with Netkey, 866-488-5877, they will provide a release number upon completion. 
+',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Event Date',
+                                           'AttrValue' => '6/3/2011 1:00:00 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Open Date',
+                                           'AttrValue' => '6/2/2011 9:43:51 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'ISSUE',
+                                           'AttrValue' => 'U34051',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Ext. Ref Num',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Status',
+                                           'AttrValue' => 'Closed',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Summary',
+                                           'AttrValue' => 'Revisit to complete Install',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Check In',
+                                           'AttrValue' => '6/3/2011 12:23:00 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Check Out',
+                                           'AttrValue' => '6/3/2011 1:22:00 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Client Status',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Comp. w/except.',
+                                           'AttrValue' => '0',
+                                           'DataType' => '2005'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Code',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Detail',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'City',
+                                           'AttrValue' => 'Norcross',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location',
+                                           'AttrValue' => 'EW-MED-100009',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'State',
+                                           'AttrValue' => 'GA',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location Type',
+                                           'AttrValue' => 'TVM-SONY-32"-FWD-32',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location TZ',
+                                           'AttrValue' => 'Eastern Time (EST/EDT)',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project',
+                                           'AttrValue' => '716',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project Name',
+                                           'AttrValue' => 'Everwell-Installs',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Release Num',
+                                           'AttrValue' => '44311712',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Notes',
+                                           'AttrValue' => 'Office Hours: 8am-5pm EDT (Admin. x2300)
+Site 100%
+released by Gideon at Netkey 44311712
+',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Status',
+                                           'AttrValue' => 'Complete',
+                                           'DataType' => '2002'
+                                         }
+                                       ]
+                        },
+          'Handle' => 'iss:433146'
+        };
+
+$VAR1 = {
+          'Attributes' => {
+                          'Attribute' => [
+                                         {
+                                           'AttrName' => 'Category',
+                                           'AttrValue' => 'Project.EW.Service',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Description',
+                                           'AttrValue' => 'Technician to replace the EW media player connected to the screen at this location.
+
+The tech must checkout with Netkey to confirm connectivity.(866.826.1176 opt. 3)',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Event Date',
+                                           'AttrValue' => '5/14/2010 11:00:00 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Open Date',
+                                           'AttrValue' => '5/6/2010 10:49:49 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'ISSUE',
+                                           'AttrValue' => 'U21290',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Ext. Ref Num',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Status',
+                                           'AttrValue' => 'Closed',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Summary',
+                                           'AttrValue' => 'Technician to replace the EW media player connected to the screen at this location.',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Check In',
+                                           'AttrValue' => '5/14/2010 11:31:00 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Check Out',
+                                           'AttrValue' => '5/14/2010 12:40:00 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Client Status',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Comp. w/except.',
+                                           'AttrValue' => '0',
+                                           'DataType' => '2005'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Code',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Detail',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'City',
+                                           'AttrValue' => 'Norcross',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location',
+                                           'AttrValue' => 'EW-MED-100009',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'State',
+                                           'AttrValue' => 'GA',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location Type',
+                                           'AttrValue' => 'TVM-SONY-32"-FWD-32',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location TZ',
+                                           'AttrValue' => 'Eastern Time (EST/EDT)',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project',
+                                           'AttrValue' => '710',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project Name',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Release Num',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Notes',
+                                           'AttrValue' => 'Released by Bruce at Netkey',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Status',
+                                           'AttrValue' => 'Complete',
+                                           'DataType' => '2002'
+                                         }
+                                       ]
+                        },
+          'Handle' => 'iss:420631'
+        };
+
+$VAR1 = {
+          'Attributes' => {
+                          'Attribute' => [
+                                         {
+                                           'AttrName' => 'Category',
+                                           'AttrValue' => 'Project.EW.Install',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Description',
+                                           'AttrValue' => 'Media Player is shipping directly to the tech, do not dispatch without it!
+
+Site took down our equipment (Everwell TV and Media Player) to renovate.  They want it back up and they say they have all the hardware. ( I am going to image another player and get them a new improved upgraded model .)  I need an IT savvy tech to do an installation.  Follow installation SOW and tech may need to run cable so please be prepared.  They also need to see that the player is getting out to the internet.  
+
+tech must test with Netkey, 866-488-5877, they will provide a release number upon completion. 
+
+Take pictures of Install once complete.',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Event Date',
+                                           'AttrValue' => '5/25/2011 10:00:00 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Open Date',
+                                           'AttrValue' => '5/17/2011 12:58:59 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'ISSUE',
+                                           'AttrValue' => 'U33423',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Ext. Ref Num',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Status',
+                                           'AttrValue' => 'Closed',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Summary',
+                                           'AttrValue' => 'Install Everwell Equipment',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Check In',
+                                           'AttrValue' => '5/25/2011 9:41:00 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Check Out',
+                                           'AttrValue' => '5/25/2011 12:19:00 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Client Status',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Comp. w/except.',
+                                           'AttrValue' => '1',
+                                           'DataType' => '2005'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Code',
+                                           'AttrValue' => 'Other',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Detail',
+                                           'AttrValue' => 'Tech needs to install some conduit and cable lock.',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'City',
+                                           'AttrValue' => 'Norcross',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location',
+                                           'AttrValue' => 'EW-MED-100009',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'State',
+                                           'AttrValue' => 'GA',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location Type',
+                                           'AttrValue' => 'TVM-SONY-32"-FWD-32',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location TZ',
+                                           'AttrValue' => 'Eastern Time (EST/EDT)',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project',
+                                           'AttrValue' => '716',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project Name',
+                                           'AttrValue' => 'Everwell-Installs',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Release Num',
+                                           'AttrValue' => 'Harrison',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Notes',
+                                           'AttrValue' => 'See comments.
+Site NOT 100%
+Tech needs to install some conduit and cable lock.
+Release by Harrison
+No photos taken as tech is returning to site.',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Status',
+                                           'AttrValue' => 'Complete',
+                                           'DataType' => '2002'
+                                         }
+                                       ]
+                        },
+          'Handle' => 'iss:432535'
+        };
+

@@ -1,0 +1,296 @@
+UDSObject = REF/Object
+{
+  'Attributes' => HASH
+  {
+    'Attribute' => REF/Array
+    [ HASH
+      {
+        'AttrName' => , STRING
+        'AttrValue' => , HASH if empty, STRING if present
+        'DataType' =>  STRING
+      },
+      ...
+      {
+        'AttrName' => 'Event Date',
+        'AttrValue' => '1/23/2012 11:00:00 AM',
+        'DataType' => '2004'
+      },
+      {
+        'AttrName' => 'Comp. w/except.',
+        'AttrValue' => '0',
+        'DataType' => '2005'
+      },
+    ]
+  },
+  'Handle' => 'iss:441010'
+};
+=========================================================
+UDSObject = 
+{
+  'Attributes' => 
+  {
+    'Attribute' => 
+    [
+     {
+       'AttrName' => 'Category',
+       'AttrValue' => 'Project.EW.Service',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Description',
+       'AttrValue' => '',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Event Date',
+       'AttrValue' => '5/14/2010 11:00:00 AM',
+       'DataType' => '2004'
+     },
+     {
+       'AttrName' => 'Open Date',
+       'AttrValue' => '5/6/2010 10:49:49 AM',
+       'DataType' => '2004'
+     },
+     {
+       'AttrName' => 'ISSUE',
+       'AttrValue' => 'U21290',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Ext. Ref Num',
+       'AttrValue' => {},
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Status',
+       'AttrValue' => 'Closed',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Summary',
+       'AttrValue' => 'Technician to replace the EW media player connected to the screen at this location.',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Check In',
+       'AttrValue' => '5/14/2010 11:31:00 AM',
+       'DataType' => '2004'
+     },
+     {
+       'AttrName' => 'Check Out',
+       'AttrValue' => '5/14/2010 12:40:00 PM',
+       'DataType' => '2004'
+     },
+     {
+       'AttrName' => 'Client Status',
+       'AttrValue' => {},
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Comp. w/except.',
+       'AttrValue' => '0',
+       'DataType' => '2005'
+     },
+     {
+       'AttrName' => 'Except. Code',
+       'AttrValue' => {},
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Except. Detail',
+       'AttrValue' => {},
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'City',
+       'AttrValue' => 'Norcross',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Location',
+       'AttrValue' => 'EW-MED-100009',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'State',
+       'AttrValue' => 'GA',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Location Type',
+       'AttrValue' => 'TVM-SONY-32"-FWD-32',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Location TZ',
+       'AttrValue' => 'Eastern Time (EST/EDT)',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Project',
+       'AttrValue' => '710',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Project Name',
+       'AttrValue' => {},
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Release Num',
+       'AttrValue' => {},
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Site Notes',
+       'AttrValue' => 'Released by Bruce at Netkey',
+       'DataType' => '2002'
+     },
+     {
+       'AttrName' => 'Site Status',
+       'AttrValue' => 'Complete',
+       'DataType' => '2002'
+     }
+    ]
+  },
+  'Handle' => 'iss:420631'
+};
+
+$VAR1 = {
+          'Attributes' => {
+                          'Attribute' => [
+                                         {
+                                           'AttrName' => 'Category',
+                                           'AttrValue' => 'Project.EW.Install',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Description',
+                                           'AttrValue' => 'Media Player is shipping directly to the tech, do not dispatch without it!
+
+Site took down our equipment (Everwell TV and Media Player) to renovate.  They want it back up and they say they have all the hardware. ( I am going to image another player and get them a new improved upgraded model .)  I need an IT savvy tech to do an installation.  Follow installation SOW and tech may need to run cable so please be prepared.  They also need to see that the player is getting out to the internet.  
+
+tech must test with Netkey, 866-488-5877, they will provide a release number upon completion. 
+
+Take pictures of Install once complete.',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Event Date',
+                                           'AttrValue' => '5/25/2011 10:00:00 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Open Date',
+                                           'AttrValue' => '5/17/2011 12:58:59 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'ISSUE',
+                                           'AttrValue' => 'U33423',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Ext. Ref Num',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Status',
+                                           'AttrValue' => 'Closed',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Summary',
+                                           'AttrValue' => 'Install Everwell Equipment',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Check In',
+                                           'AttrValue' => '5/25/2011 9:41:00 AM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Check Out',
+                                           'AttrValue' => '5/25/2011 12:19:00 PM',
+                                           'DataType' => '2004'
+                                         },
+                                         {
+                                           'AttrName' => 'Client Status',
+                                           'AttrValue' => {},
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Comp. w/except.',
+                                           'AttrValue' => '1',
+                                           'DataType' => '2005'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Code',
+                                           'AttrValue' => 'Other',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Except. Detail',
+                                           'AttrValue' => 'Tech needs to install some conduit and cable lock.',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'City',
+                                           'AttrValue' => 'Norcross',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location',
+                                           'AttrValue' => 'EW-MED-100009',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'State',
+                                           'AttrValue' => 'GA',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location Type',
+                                           'AttrValue' => 'TVM-SONY-32"-FWD-32',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Location TZ',
+                                           'AttrValue' => 'Eastern Time (EST/EDT)',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project',
+                                           'AttrValue' => '716',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Project Name',
+                                           'AttrValue' => 'Everwell-Installs',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Release Num',
+                                           'AttrValue' => 'Harrison',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Notes',
+                                           'AttrValue' => 'See comments.
+Site NOT 100%
+Tech needs to install some conduit and cable lock.
+Release by Harrison
+No photos taken as tech is returning to site.',
+                                           'DataType' => '2002'
+                                         },
+                                         {
+                                           'AttrName' => 'Site Status',
+                                           'AttrValue' => 'Complete',
+                                           'DataType' => '2002'
+                                         }
+                                       ]
+                        },
+          'Handle' => 'iss:432535'
+        };
+

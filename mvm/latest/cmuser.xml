@@ -1,0 +1,5993 @@
+<cmuserList execTimeinMillis="9312"><CMUser>
+  <id>1</id>
+  <firstName>Netkey</firstName>
+  <lastName>TechSupport</lastName>
+  <loginName>netkey.portal</loginName>
+  <phone>203-907-0227</phone>
+  <email>techsupport@netkey.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="253"/>
+    <CustomMessage id="106"/>
+    <CustomMessage id="76"/>
+    <CustomMessage id="75"/>
+    <CustomMessage id="1706"/>
+    <CustomMessage id="74"/>
+    <CustomMessage id="316"/>
+    <CustomMessage id="108"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>2</id>
+  <firstName>Loren</firstName>
+  <lastName>Goldfarb</lastName>
+  <loginName>lgoldfarb</loginName>
+  <phone>321-821-5356</phone>
+  <email>lgoldfarb@everwell.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="526" name="MED-100597"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="718"/>
+    <CustomMessage id="28"/>
+    <CustomMessage id="32"/>
+    <CustomMessage id="38"/>
+    <CustomMessage id="774"/>
+    <CustomMessage id="29"/>
+    <CustomMessage id="31"/>
+    <CustomMessage id="30"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>3</id>
+  <firstName>mimi</firstName>
+  <lastName>obrien</lastName>
+  <loginName>netkeyqa.portal</loginName>
+  <phone>203-907-0227</phone>
+  <email>techsupport@netkey.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="10"/>
+    <CustomMessage id="11"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>4</id>
+  <firstName>Kathy</firstName>
+  <lastName>Illetta</lastName>
+  <loginName>killetta</loginName>
+  <phone>708-798-2400</phone>
+  <email>reproha@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="529" name="MED-100600"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="14"/>
+    <CustomMessage id="27"/>
+    <CustomMessage id="18"/>
+    <CustomMessage id="727"/>
+    <CustomMessage id="17"/>
+    <CustomMessage id="15"/>
+    <CustomMessage id="702"/>
+    <CustomMessage id="16"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>5</id>
+  <firstName>Andrew</firstName>
+  <lastName>White</lastName>
+  <loginName>awhite</loginName>
+  <phone/>
+  <email>Andrew.White@emoryhealthcare.org</email>
+  <activeInactive>false</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="373"/>
+    <CustomMessage id="58"/>
+    <CustomMessage id="60"/>
+    <CustomMessage id="113"/>
+    <CustomMessage id="112"/>
+    <CustomMessage id="56"/>
+    <CustomMessage id="372"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>6</id>
+  <firstName>H</firstName>
+  <lastName>Polanski</lastName>
+  <loginName>cmdsbutler</loginName>
+  <phone>321-821-0590</phone>
+  <email>hpolanski@everwell.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1466" name="MED-101057"/>
+    <CMSign id="1388" name="MED-101009"/>
+    <CMSign id="1383" name="MED-100999"/>
+    <CMSign id="706" name="MED-100779"/>
+    <CMSign id="1667" name="MED-101131"/>
+    <CMSign id="1467" name="MED-101058"/>
+    <CMSign id="1380" name="MED-100998"/>
+    <CMSign id="1812" name="MED-101200"/>
+    <CMSign id="707" name="MED-100780"/>
+    <CMSign id="1816" name="MED-101199"/>
+    <CMSign id="1361" name="MED-100983"/>
+    <CMSign id="20" name="MED-100015"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="1"/>
+  <customMessages>
+    <CustomMessage id="1393"/>
+    <CustomMessage id="1839"/>
+    <CustomMessage id="1838"/>
+    <CustomMessage id="1837"/>
+    <CustomMessage id="1841"/>
+    <CustomMessage id="1842"/>
+    <CustomMessage id="807"/>
+    <CustomMessage id="1840"/>
+    <CustomMessage id="1161"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>8</id>
+  <firstName>Mark</firstName>
+  <lastName>Pinson</lastName>
+  <loginName>MPinson</loginName>
+  <phone/>
+  <email>Mpinson@mpinson.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="314" name="MED-100362"/>
+    <CMSign id="313" name="MED-100361"/>
+    <CMSign id="326" name="MED-100375"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>9</id>
+  <firstName>Nancy</firstName>
+  <lastName>Gimpelson</lastName>
+  <loginName>NGimpelson</loginName>
+  <phone/>
+  <email>epabernathy@hotmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="405" name="MED-100471"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="42"/>
+    <CustomMessage id="41"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>10</id>
+  <firstName>Richard</firstName>
+  <lastName>Overfield</lastName>
+  <loginName>ucemesa</loginName>
+  <phone/>
+  <email>joanne.vanbelleghem@urgentcareexpress.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="361" name="MED-100418"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="134"/>
+    <CustomMessage id="136"/>
+    <CustomMessage id="135"/>
+    <CustomMessage id="137"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>11</id>
+  <firstName>Rina</firstName>
+  <lastName>Contreras</lastName>
+  <loginName>RContreras</loginName>
+  <phone/>
+  <email>rina_fmc@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="552" name="MED-100624"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="49"/>
+    <CustomMessage id="46"/>
+    <CustomMessage id="47"/>
+    <CustomMessage id="50"/>
+    <CustomMessage id="48"/>
+    <CustomMessage id="45"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>12</id>
+  <firstName>Steli</firstName>
+  <lastName>Buchanan</lastName>
+  <loginName>SBuchanan</loginName>
+  <phone/>
+  <email>stelib3@sbcglobal.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="587" name="MED-100659"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="913"/>
+    <CustomMessage id="692"/>
+    <CustomMessage id="2040"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>13</id>
+  <firstName>Diane</firstName>
+  <lastName>James</lastName>
+  <loginName>Djames</loginName>
+  <phone/>
+  <email>Djames@bimedicine.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="577" name="MED-100649"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>14</id>
+  <firstName>Marc</firstName>
+  <lastName>Hogenbirk</lastName>
+  <loginName>MHogenbirk</loginName>
+  <phone/>
+  <email>MHogenbirk@ihaninc.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="561" name="MED-100633"/>
+    <CMSign id="560" name="MED-100632"/>
+    <CMSign id="559" name="MED-100631"/>
+    <CMSign id="562" name="MED-100634"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>15</id>
+  <firstName>Rhonda</firstName>
+  <lastName>Davis</lastName>
+  <loginName>RDavis</loginName>
+  <phone/>
+  <email>RhondaDavis06@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="603" name="MED-100675"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1947"/>
+    <CustomMessage id="1448"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>16</id>
+  <firstName>Amanda</firstName>
+  <lastName>Hernandez</lastName>
+  <loginName>AHernandez</loginName>
+  <phone/>
+  <email>Obgyn1958@sbcglobal.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="542" name="MED-100614"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>17</id>
+  <firstName>William</firstName>
+  <lastName>Burris</lastName>
+  <loginName>WBurris</loginName>
+  <phone/>
+  <email>William@womenshealthpartners.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="512" name="MED-100583"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="52"/>
+    <CustomMessage id="63"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>18</id>
+  <firstName>DeeDee</firstName>
+  <lastName>Weaver</lastName>
+  <loginName>DWeaver</loginName>
+  <phone/>
+  <email>dweaver@thorntonmedicalcenter.com</email>
+  <activeInactive>false</activeInactive>
+  <passwordCounter>3</passwordCounter>
+  <signs>
+    <CMSign id="402" name="MED-100468"/>
+    <CMSign id="403" name="MED-100469"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1406"/>
+    <CustomMessage id="1404"/>
+    <CustomMessage id="1403"/>
+    <CustomMessage id="1516"/>
+    <CustomMessage id="1405"/>
+    <CustomMessage id="1778"/>
+    <CustomMessage id="183"/>
+    <CustomMessage id="1518"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>19</id>
+  <firstName>Leeann</firstName>
+  <lastName>Legg</lastName>
+  <loginName>LLegg</loginName>
+  <phone/>
+  <email>LLEGG@doverfamilyphysicians.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="538" name="MED-100609"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="51"/>
+    <CustomMessage id="53"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>20</id>
+  <firstName>Vicki</firstName>
+  <lastName>Spencer</lastName>
+  <loginName>VSpencer</loginName>
+  <phone/>
+  <email>allergyassoc2@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="517" name="MED-100588"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="124"/>
+    <CustomMessage id="125"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>21</id>
+  <firstName>Regina</firstName>
+  <lastName>Rickard</lastName>
+  <loginName>RRickard</loginName>
+  <phone/>
+  <email>Debra060@hhsys.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="489" name="MED-100558"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="62"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>22</id>
+  <firstName>Field</firstName>
+  <lastName>Sales</lastName>
+  <loginName>fieldsales</loginName>
+  <phone>321-821-5356</phone>
+  <email>lgoldfarb@everwell.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="92"/>
+    <CustomMessage id="96"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>24</id>
+  <firstName>Chris</firstName>
+  <lastName>Coutu</lastName>
+  <loginName>CCoutu</loginName>
+  <phone/>
+  <email>chriscoutu@csl.rr.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="555" name="MED-100627"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="146"/>
+    <CustomMessage id="85"/>
+    <CustomMessage id="1615"/>
+    <CustomMessage id="883"/>
+    <CustomMessage id="751"/>
+    <CustomMessage id="1510"/>
+    <CustomMessage id="1156"/>
+    <CustomMessage id="882"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>25</id>
+  <firstName>Tara</firstName>
+  <lastName>Bowens</lastName>
+  <loginName>TBowens</loginName>
+  <phone/>
+  <email>tara@KHarperMD.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="583" name="MED-100655"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="72"/>
+    <CustomMessage id="70"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>26</id>
+  <firstName>James</firstName>
+  <lastName>Nagle</lastName>
+  <loginName>JBNagle</loginName>
+  <phone/>
+  <email>nagle.j@sbcglobal.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="522" name="MED-100593"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>27</id>
+  <firstName>Jill</firstName>
+  <lastName>Wiles</lastName>
+  <loginName>JWiles</loginName>
+  <phone/>
+  <email>jillebeanrn@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="537" name="MED-100608"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="428"/>
+    <CustomMessage id="313"/>
+    <CustomMessage id="580"/>
+    <CustomMessage id="314"/>
+    <CustomMessage id="581"/>
+    <CustomMessage id="582"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>28</id>
+  <firstName>Anna</firstName>
+  <lastName>Downer</lastName>
+  <loginName>ADowner</loginName>
+  <phone/>
+  <email>anna@phxgynconsultants.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="604" name="MED-100676"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>29</id>
+  <firstName>Tina</firstName>
+  <lastName>Dhamija</lastName>
+  <loginName>TDhamija</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="494" name="MED-100563"/>
+    <CMSign id="493" name="MED-100562"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="77"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>30</id>
+  <firstName>Lisa</firstName>
+  <lastName>Lugar</lastName>
+  <loginName>LLugar</loginName>
+  <phone/>
+  <email>promptcare@consoilated.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="624" name="MED-100696"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="78"/>
+    <CustomMessage id="79"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>31</id>
+  <firstName>Darlene</firstName>
+  <lastName>Perez</lastName>
+  <loginName>DPerez</loginName>
+  <phone/>
+  <email>darlenemperez@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="634" name="MED-100706"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>33</id>
+  <firstName>Jennifer</firstName>
+  <lastName>Taylor</lastName>
+  <loginName>JTaylor</loginName>
+  <phone/>
+  <email>Jennifervesc@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="610" name="MED-100682"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="83"/>
+    <CustomMessage id="82"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>34</id>
+  <firstName>Patty</firstName>
+  <lastName>Nichols</lastName>
+  <loginName>PNichols</loginName>
+  <phone/>
+  <email>PNichols@lakemartinhospital.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="317" name="MED-100365"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1217"/>
+    <CustomMessage id="575"/>
+    <CustomMessage id="228"/>
+    <CustomMessage id="576"/>
+    <CustomMessage id="223"/>
+    <CustomMessage id="1218"/>
+    <CustomMessage id="227"/>
+    <CustomMessage id="225"/>
+    <CustomMessage id="224"/>
+    <CustomMessage id="226"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>35</id>
+  <firstName>Walter</firstName>
+  <lastName>Conley</lastName>
+  <loginName>WConley</loginName>
+  <phone/>
+  <email>amsgpcorp2@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="632" name="MED-100704"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="599"/>
+    <CustomMessage id="711"/>
+    <CustomMessage id="986"/>
+    <CustomMessage id="805"/>
+    <CustomMessage id="317"/>
+    <CustomMessage id="598"/>
+    <CustomMessage id="625"/>
+    <CustomMessage id="1883"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>36</id>
+  <firstName>Joan</firstName>
+  <lastName>Mortensen</lastName>
+  <loginName>JMortensen</loginName>
+  <phone/>
+  <email>JoanM@standrewshealth.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="499" name="MED-100569"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="915"/>
+    <CustomMessage id="716"/>
+    <CustomMessage id="268"/>
+    <CustomMessage id="132"/>
+    <CustomMessage id="169"/>
+    <CustomMessage id="717"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>37</id>
+  <firstName>Sharon</firstName>
+  <lastName>Mertz</lastName>
+  <loginName>SMerz</loginName>
+  <phone/>
+  <email>sharon.mertz@samcstl.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="500" name="MED-100570"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="87"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>38</id>
+  <firstName>Dr. Bruce</firstName>
+  <lastName>Sabin</lastName>
+  <loginName>BSabin</loginName>
+  <phone/>
+  <email>Dr. Sabin@brucesabinmd.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="276" name="MED-100320"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1890"/>
+    <CustomMessage id="1889"/>
+    <CustomMessage id="659"/>
+    <CustomMessage id="1888"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>39</id>
+  <firstName>Dr. Calvin</firstName>
+  <lastName>Wong</lastName>
+  <loginName>CWong</loginName>
+  <phone/>
+  <email>Calvinwongmd@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="340" name="MED-100391"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="89"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>40</id>
+  <firstName>Sandra</firstName>
+  <lastName>Ortega</lastName>
+  <loginName>sortega</loginName>
+  <phone/>
+  <email>eveunderscorealexandra@att.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="597" name="MED-100669"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="871"/>
+    <CustomMessage id="869"/>
+    <CustomMessage id="868"/>
+    <CustomMessage id="870"/>
+    <CustomMessage id="867"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>42</id>
+  <firstName>Gina</firstName>
+  <lastName>Cooper</lastName>
+  <loginName>GCooper</loginName>
+  <phone/>
+  <email>gcooper@hpca.xohost.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="90" name="MED-100096"/>
+    <CMSign id="91" name="MED-100097"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>43</id>
+  <firstName>Rick</firstName>
+  <lastName>Hamilton</lastName>
+  <loginName>RHamilton</loginName>
+  <phone/>
+  <email>RickHamilton58@msn.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="579" name="MED-100651"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="107"/>
+    <CustomMessage id="1906"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>44</id>
+  <firstName>Regina</firstName>
+  <lastName>Blake</lastName>
+  <loginName>RBlake</loginName>
+  <phone/>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="235" name="MED-100271"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="832"/>
+    <CustomMessage id="863"/>
+    <CustomMessage id="833"/>
+    <CustomMessage id="1905"/>
+    <CustomMessage id="825"/>
+    <CustomMessage id="120"/>
+    <CustomMessage id="1698"/>
+    <CustomMessage id="173"/>
+    <CustomMessage id="94"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>45</id>
+  <firstName>Pia</firstName>
+  <lastName>Mateo</lastName>
+  <loginName>PMateo</loginName>
+  <phone/>
+  <email>vsprimo@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="283" name="MED-100331"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="944"/>
+    <CustomMessage id="99"/>
+    <CustomMessage id="100"/>
+    <CustomMessage id="724"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>46</id>
+  <firstName>Sylvia</firstName>
+  <lastName>Delalto</lastName>
+  <loginName>SDelalto</loginName>
+  <phone/>
+  <email>locum640@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="248" name="MED-100286"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>47</id>
+  <firstName>Kathy</firstName>
+  <lastName>Waltner</lastName>
+  <loginName>KWaltner</loginName>
+  <phone/>
+  <email>tpoard@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="524" name="MED-100595"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="305"/>
+    <CustomMessage id="114"/>
+    <CustomMessage id="2047"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>48</id>
+  <firstName>Jennifer</firstName>
+  <lastName>Larson</lastName>
+  <loginName>JLarson</loginName>
+  <phone/>
+  <email>Jlarson@express-healthcare.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="387" name="MED-100449"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1612"/>
+    <CustomMessage id="2005"/>
+    <CustomMessage id="101"/>
+    <CustomMessage id="939"/>
+    <CustomMessage id="2004"/>
+    <CustomMessage id="1066"/>
+    <CustomMessage id="1912"/>
+    <CustomMessage id="1439"/>
+    <CustomMessage id="1908"/>
+    <CustomMessage id="1438"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>49</id>
+  <firstName>Ingrid</firstName>
+  <lastName>Chhibber</lastName>
+  <loginName>IChhibber</loginName>
+  <phone/>
+  <email>roseychhibber@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="660" name="MED-100729"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="109"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>50</id>
+  <firstName>Dr.Elizabeth</firstName>
+  <lastName>Anderson</lastName>
+  <loginName>EAnderson</loginName>
+  <phone/>
+  <email>keh634@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="640" name="MED-100712"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="111"/>
+    <CustomMessage id="495"/>
+    <CustomMessage id="494"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>51</id>
+  <firstName>Stacie</firstName>
+  <lastName>Finley</lastName>
+  <loginName>sfinley</loginName>
+  <phone/>
+  <email>stacie.finley@primedphysician.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="623" name="MED-100695"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="122"/>
+    <CustomMessage id="121"/>
+    <CustomMessage id="117"/>
+    <CustomMessage id="118"/>
+    <CustomMessage id="119"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>52</id>
+  <firstName>Susan</firstName>
+  <lastName>Gardiner</lastName>
+  <loginName>SGardiner</loginName>
+  <phone/>
+  <email>gardiners1954@verizon.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="50" name="MED-100046"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="424"/>
+    <CustomMessage id="123"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>53</id>
+  <firstName>Carla</firstName>
+  <lastName>MCallum</lastName>
+  <loginName>CMcallum</loginName>
+  <phone/>
+  <email>cbmcallum@sutherlandclinic.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="264" name="MED-100303"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>54</id>
+  <firstName>Susan</firstName>
+  <lastName>Ferrell</lastName>
+  <loginName>sferrell</loginName>
+  <phone/>
+  <email>susanferrell@oslermedical.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="572" name="MED-100644"/>
+    <CMSign id="703" name="MED-100772"/>
+    <CMSign id="570" name="MED-100642"/>
+    <CMSign id="569" name="MED-100641"/>
+    <CMSign id="571" name="MED-100643"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>55</id>
+  <firstName>N.</firstName>
+  <lastName>Chaloult</lastName>
+  <loginName>nchaloult</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="25" name="MED-100020"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>56</id>
+  <firstName>Cindy</firstName>
+  <lastName>Reese</lastName>
+  <loginName>creese</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="627" name="MED-100699"/>
+    <CMSign id="626" name="MED-100698"/>
+    <CMSign id="34" name="MED-100030"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>57</id>
+  <firstName>L.</firstName>
+  <lastName>Cleaveland</lastName>
+  <loginName>lcleaveland</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="148" name="MED-100167"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>58</id>
+  <firstName>Carrie</firstName>
+  <lastName>Lee</lastName>
+  <loginName>clee</loginName>
+  <phone/>
+  <email>nandrawis@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="205" name="MED-100235"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="126"/>
+    <CustomMessage id="129"/>
+    <CustomMessage id="128"/>
+    <CustomMessage id="127"/>
+    <CustomMessage id="131"/>
+    <CustomMessage id="130"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>59</id>
+  <firstName>Brad</firstName>
+  <lastName>Frick</lastName>
+  <loginName>BFrick</loginName>
+  <phone/>
+  <email>bradfrick@gulfregional.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="178"/>
+    <CustomMessage id="177"/>
+    <CustomMessage id="175"/>
+    <CustomMessage id="176"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>60</id>
+  <firstName>Joanna</firstName>
+  <lastName>Vogt</lastName>
+  <loginName>JVogt</loginName>
+  <phone/>
+  <email>kam8704@bjc.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="662" name="MED-100731"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>61</id>
+  <firstName>Melanie</firstName>
+  <lastName>Meza</lastName>
+  <loginName>mmeza</loginName>
+  <phone/>
+  <email>registration@eldoradouc.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="139" name="MED-100158"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="206"/>
+    <CustomMessage id="205"/>
+    <CustomMessage id="204"/>
+    <CustomMessage id="203"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>62</id>
+  <firstName>George</firstName>
+  <lastName>Santiago</lastName>
+  <loginName>GSantiago</loginName>
+  <phone/>
+  <email>gsantiago@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="686" name="MED-100768"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1504"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>63</id>
+  <firstName>Nancy</firstName>
+  <lastName>Oreskovich</lastName>
+  <loginName>NOreskovich</loginName>
+  <phone/>
+  <email>nancyo@mparkmed.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="222" name="MED-100255"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="816"/>
+    <CustomMessage id="1134"/>
+    <CustomMessage id="1945"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>64</id>
+  <firstName>Laura</firstName>
+  <lastName>Sierra</lastName>
+  <loginName>LSierra</loginName>
+  <phone/>
+  <email>familymedicinerehab@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="274" name="MED-100318"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="143"/>
+    <CustomMessage id="141"/>
+    <CustomMessage id="139"/>
+    <CustomMessage id="138"/>
+    <CustomMessage id="142"/>
+    <CustomMessage id="140"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>65</id>
+  <firstName>Chasity</firstName>
+  <lastName>Bellon</lastName>
+  <loginName>cbellon</loginName>
+  <phone/>
+  <email>chasity.bellon@beaumonthospitals.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="705" name="MED-100777"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="606"/>
+    <CustomMessage id="2092"/>
+    <CustomMessage id="2048"/>
+    <CustomMessage id="605"/>
+    <CustomMessage id="1977"/>
+    <CustomMessage id="2091"/>
+    <CustomMessage id="2086"/>
+    <CustomMessage id="2010"/>
+    <CustomMessage id="145"/>
+    <CustomMessage id="2087"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>66</id>
+  <firstName>Lee</firstName>
+  <lastName>Cargola</lastName>
+  <loginName>LCargola</loginName>
+  <phone/>
+  <email>n/a</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="651" name="MED-100723"/>
+    <CMSign id="652" name="MED-100724"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1250"/>
+    <CustomMessage id="636"/>
+    <CustomMessage id="1249"/>
+    <CustomMessage id="152"/>
+    <CustomMessage id="1865"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>67</id>
+  <firstName>Karen</firstName>
+  <lastName>Jones</lastName>
+  <loginName>KJones</loginName>
+  <phone/>
+  <email>kajlmesey@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="416" name="med-100482"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="154"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>68</id>
+  <firstName>Jessica</firstName>
+  <lastName>Wingate</lastName>
+  <loginName>Jwingate</loginName>
+  <phone/>
+  <email>fairviewclinicadmin@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="354" name="MED-100406"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1500"/>
+    <CustomMessage id="1948"/>
+    <CustomMessage id="1499"/>
+    <CustomMessage id="422"/>
+    <CustomMessage id="1501"/>
+    <CustomMessage id="1950"/>
+    <CustomMessage id="1949"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>69</id>
+  <firstName>Paula</firstName>
+  <lastName>Heindl</lastName>
+  <loginName>pheindl</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="575" name="MED-100647"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>70</id>
+  <firstName>Andrew</firstName>
+  <lastName>Stewart</lastName>
+  <loginName>astewart</loginName>
+  <phone/>
+  <email>Carol_Stewart@bellsouth.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="738" name="MED-100811"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="163"/>
+    <CustomMessage id="160"/>
+    <CustomMessage id="159"/>
+    <CustomMessage id="162"/>
+    <CustomMessage id="161"/>
+    <CustomMessage id="158"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>71</id>
+  <firstName>David</firstName>
+  <lastName>Hanline</lastName>
+  <loginName>DHanline</loginName>
+  <phone/>
+  <email>david.hanline@vvrmc.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="620" name="MED-100692"/>
+    <CMSign id="619" name="MED-100691"/>
+    <CMSign id="618" name="MED-100690"/>
+    <CMSign id="621" name="MED-100693"/>
+    <CMSign id="617" name="MED-100689"/>
+    <CMSign id="709" name="MED-100785"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>72</id>
+  <firstName>Toni</firstName>
+  <lastName>Neal</lastName>
+  <loginName>TNeal</loginName>
+  <phone/>
+  <email>tonineal.urgentcare@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1613" name="MED-101070"/>
+    <CMSign id="737" name="MED-100810"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="164"/>
+    <CustomMessage id="165"/>
+    <CustomMessage id="166"/>
+    <CustomMessage id="1685"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>73</id>
+  <firstName>Dr. Patrick</firstName>
+  <lastName>Pan</lastName>
+  <loginName>ppan</loginName>
+  <phone/>
+  <email>Ptpan8@pol.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="319" name="MED-100367"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="168"/>
+    <CustomMessage id="167"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>74</id>
+  <firstName>Allison</firstName>
+  <lastName>Brown</lastName>
+  <loginName>abrown</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="223" name="MED-100256"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>75</id>
+  <firstName>Jennifer</firstName>
+  <lastName>Arnkoff</lastName>
+  <loginName>JArnkoff</loginName>
+  <phone/>
+  <email>jennifer@farmingtonfamily.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="143" name="MED-100162"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="170"/>
+    <CustomMessage id="2012"/>
+    <CustomMessage id="1835"/>
+    <CustomMessage id="573"/>
+    <CustomMessage id="172"/>
+    <CustomMessage id="862"/>
+    <CustomMessage id="2023"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>76</id>
+  <firstName>Camilla</firstName>
+  <lastName>Boblitt</lastName>
+  <loginName>Cboblitt</loginName>
+  <phone/>
+  <email>ytudor@premiermedgroup.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="711" name="MED-100782"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="287"/>
+    <CustomMessage id="285"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>77</id>
+  <firstName>Lama</firstName>
+  <lastName>Kharboutli</lastName>
+  <loginName>Lkharboutli</loginName>
+  <phone/>
+  <email>NA</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="130" name="MED-100148"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="184"/>
+    <CustomMessage id="418"/>
+    <CustomMessage id="1351"/>
+    <CustomMessage id="438"/>
+    <CustomMessage id="388"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>78</id>
+  <firstName>Sharon</firstName>
+  <lastName>Hawthorne</lastName>
+  <loginName>Shawthorne</loginName>
+  <phone/>
+  <email>rgcatusinc@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="629" name="MED-100701"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1421"/>
+    <CustomMessage id="1350"/>
+    <CustomMessage id="1424"/>
+    <CustomMessage id="982"/>
+    <CustomMessage id="1993"/>
+    <CustomMessage id="1346"/>
+    <CustomMessage id="1348"/>
+    <CustomMessage id="981"/>
+    <CustomMessage id="1349"/>
+    <CustomMessage id="948"/>
+    <CustomMessage id="1423"/>
+    <CustomMessage id="1343"/>
+    <CustomMessage id="1724"/>
+    <CustomMessage id="980"/>
+    <CustomMessage id="1422"/>
+    <CustomMessage id="1725"/>
+    <CustomMessage id="983"/>
+    <CustomMessage id="1344"/>
+    <CustomMessage id="1992"/>
+    <CustomMessage id="984"/>
+    <CustomMessage id="1345"/>
+    <CustomMessage id="1347"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>79</id>
+  <firstName>Jack</firstName>
+  <lastName>Negatatam</lastName>
+  <loginName>JackN</loginName>
+  <phone/>
+  <email>multihealth@mbowercom.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="278" name="MED-100324"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="382"/>
+    <CustomMessage id="202"/>
+    <CustomMessage id="1207"/>
+    <CustomMessage id="1210"/>
+    <CustomMessage id="384"/>
+    <CustomMessage id="385"/>
+    <CustomMessage id="1212"/>
+    <CustomMessage id="379"/>
+    <CustomMessage id="381"/>
+    <CustomMessage id="386"/>
+    <CustomMessage id="380"/>
+    <CustomMessage id="1209"/>
+    <CustomMessage id="383"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>82</id>
+  <firstName>Terri</firstName>
+  <lastName>Kuehl</lastName>
+  <loginName>Tkuehl</loginName>
+  <phone/>
+  <email>dawn@cornerstonefamilycare.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="2178" name="MED-100400-AOK"/>
+    <CMSign id="349" name="MED-100400"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>83</id>
+  <firstName>Ermias</firstName>
+  <lastName>Tilahun</lastName>
+  <loginName>tilahun</loginName>
+  <phone/>
+  <email>lakeiaora@sbcglobal.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="744" name="MED-100814"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1901"/>
+    <CustomMessage id="1484"/>
+    <CustomMessage id="1682"/>
+    <CustomMessage id="1758"/>
+    <CustomMessage id="1314"/>
+    <CustomMessage id="1402"/>
+    <CustomMessage id="1882"/>
+    <CustomMessage id="1312"/>
+    <CustomMessage id="1903"/>
+    <CustomMessage id="1679"/>
+    <CustomMessage id="1680"/>
+    <CustomMessage id="2049"/>
+    <CustomMessage id="1315"/>
+    <CustomMessage id="312"/>
+    <CustomMessage id="1686"/>
+    <CustomMessage id="1065"/>
+    <CustomMessage id="1064"/>
+    <CustomMessage id="1072"/>
+    <CustomMessage id="311"/>
+    <CustomMessage id="1828"/>
+    <CustomMessage id="1854"/>
+    <CustomMessage id="1401"/>
+    <CustomMessage id="1310"/>
+    <CustomMessage id="1827"/>
+    <CustomMessage id="1855"/>
+    <CustomMessage id="1311"/>
+    <CustomMessage id="2051"/>
+    <CustomMessage id="1857"/>
+    <CustomMessage id="1830"/>
+    <CustomMessage id="191"/>
+    <CustomMessage id="1482"/>
+    <CustomMessage id="1483"/>
+    <CustomMessage id="1880"/>
+    <CustomMessage id="1902"/>
+    <CustomMessage id="2050"/>
+    <CustomMessage id="1856"/>
+    <CustomMessage id="1826"/>
+    <CustomMessage id="1757"/>
+    <CustomMessage id="1881"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>85</id>
+  <firstName>Bonnie</firstName>
+  <lastName>McGee</lastName>
+  <loginName>BMcgee</loginName>
+  <phone/>
+  <email>dravesfamilypractice@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="718" name="MED-100793"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="201"/>
+    <CustomMessage id="200"/>
+    <CustomMessage id="199"/>
+    <CustomMessage id="198"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>86</id>
+  <firstName>Rebecca</firstName>
+  <lastName>Goll</lastName>
+  <loginName>RGoll</loginName>
+  <phone/>
+  <email>drvallen@comcast.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="239" name="MED-100275"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="806"/>
+    <CustomMessage id="778"/>
+    <CustomMessage id="1648"/>
+    <CustomMessage id="195"/>
+    <CustomMessage id="332"/>
+    <CustomMessage id="387"/>
+    <CustomMessage id="1650"/>
+    <CustomMessage id="194"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>87</id>
+  <firstName>Michelle</firstName>
+  <lastName>Bolyard</lastName>
+  <loginName>Mbolyard</loginName>
+  <phone/>
+  <email>michelle_bolyard@earthlink.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="729" name="MED-100786"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="197"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>88</id>
+  <firstName>Maria</firstName>
+  <lastName>Samala</lastName>
+  <loginName>msamala</loginName>
+  <phone/>
+  <email>msamala@akcya.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="255" name="MED-100294"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>89</id>
+  <firstName>Zulma</firstName>
+  <lastName>Rodriguez</lastName>
+  <loginName>zrodriguez</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="735" name="MED-100808"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>90</id>
+  <firstName>Rob</firstName>
+  <lastName>Masat</lastName>
+  <loginName>rmasat</loginName>
+  <phone/>
+  <email>Health@mainstaycomm.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="436" name="MED-100504"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="213"/>
+    <CustomMessage id="2017"/>
+    <CustomMessage id="631"/>
+    <CustomMessage id="477"/>
+    <CustomMessage id="629"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>91</id>
+  <firstName>Melainy</firstName>
+  <lastName>Keefer</lastName>
+  <loginName>mkeefer</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>2</passwordCounter>
+  <signs>
+    <CMSign id="528" name="MED-100599"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>92</id>
+  <firstName>Dr. Syed</firstName>
+  <lastName>Masood</lastName>
+  <loginName>smasood</loginName>
+  <phone/>
+  <email>piedmontim@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="725" name="MED-100800"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="242"/>
+    <CustomMessage id="243"/>
+    <CustomMessage id="244"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>95</id>
+  <firstName>Neil</firstName>
+  <lastName>Loskovitz</lastName>
+  <loginName>nLoskovitz</loginName>
+  <phone/>
+  <email>minormedical@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="723" name="MED-100798"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="256"/>
+    <CustomMessage id="255"/>
+    <CustomMessage id="247"/>
+    <CustomMessage id="254"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>96</id>
+  <firstName>Jessica</firstName>
+  <lastName>Graham</lastName>
+  <loginName>jgraham@everwell.com</loginName>
+  <phone/>
+  <email>jgraham@everwell.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="1"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>97</id>
+  <firstName>Marie</firstName>
+  <lastName>Patron</lastName>
+  <loginName>mpatron</loginName>
+  <phone/>
+  <email>mpatron@cox.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="427" name="MED-100495"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="567"/>
+    <CustomMessage id="262"/>
+    <CustomMessage id="566"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>99</id>
+  <firstName>Terra</firstName>
+  <lastName>Kimbrough</lastName>
+  <loginName>tkimbrough</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="750" name="MED-100825"/>
+    <CMSign id="1317" name="MED-100939"/>
+    <CMSign id="1300" name="MED-100940"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="299"/>
+    <CustomMessage id="524"/>
+    <CustomMessage id="2082"/>
+    <CustomMessage id="300"/>
+    <CustomMessage id="525"/>
+    <CustomMessage id="523"/>
+    <CustomMessage id="1444"/>
+    <CustomMessage id="301"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>100</id>
+  <firstName>Dee</firstName>
+  <lastName>Nutley</lastName>
+  <loginName>dnutley</loginName>
+  <phone/>
+  <email>dee@vimclinic.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="174" name="MED-100198"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2068"/>
+    <CustomMessage id="698"/>
+    <CustomMessage id="1936"/>
+    <CustomMessage id="684"/>
+    <CustomMessage id="1937"/>
+    <CustomMessage id="1832"/>
+    <CustomMessage id="1549"/>
+    <CustomMessage id="2067"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>101</id>
+  <firstName>Chimezie</firstName>
+  <lastName>Amanambu</lastName>
+  <loginName>camanambu</loginName>
+  <phone>(330) 375-0000</phone>
+  <email>ccamau@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="698" name="MED-100763"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1721"/>
+    <CustomMessage id="275"/>
+    <CustomMessage id="273"/>
+    <CustomMessage id="1897"/>
+    <CustomMessage id="269"/>
+    <CustomMessage id="1965"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>102</id>
+  <firstName>kathy</firstName>
+  <lastName>kirby</lastName>
+  <loginName>kkirby</loginName>
+  <phone/>
+  <email>matt@suddenlinkmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="339" name="MED-100390"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1639"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>103</id>
+  <firstName>marilynn</firstName>
+  <lastName>womack</lastName>
+  <loginName>mwomack</loginName>
+  <phone/>
+  <email>baygray@sbcglobal.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="258" name="MED-100297"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="283"/>
+    <CustomMessage id="1751"/>
+    <CustomMessage id="1750"/>
+    <CustomMessage id="769"/>
+    <CustomMessage id="284"/>
+    <CustomMessage id="1551"/>
+    <CustomMessage id="290"/>
+    <CustomMessage id="289"/>
+    <CustomMessage id="288"/>
+    <CustomMessage id="1631"/>
+    <CustomMessage id="1630"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>104</id>
+  <firstName>Mustafa</firstName>
+  <lastName>Arsiwala</lastName>
+  <loginName>marsiwala</loginName>
+  <phone>(734) 542-6100</phone>
+  <email>mupcp@juno.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="758" name="MED-100828"/>
+    <CMSign id="759" name="MED-100832"/>
+    <CMSign id="748" name="MED-100831"/>
+    <CMSign id="1212" name="MED-100871"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="754"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>105</id>
+  <firstName>joseph</firstName>
+  <lastName>garcia</lastName>
+  <loginName>jgarcia</loginName>
+  <phone/>
+  <email>gulfporturgicare@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="714" name="MED-100789"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="319"/>
+    <CustomMessage id="414"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>106</id>
+  <firstName>Dr. Kamiesh</firstName>
+  <lastName>Desai</lastName>
+  <loginName>kdesai</loginName>
+  <phone/>
+  <email>kmdfmd@pol.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="369" name="MED-100426"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>107</id>
+  <firstName>beth</firstName>
+  <lastName>chansler</lastName>
+  <loginName>bchansler</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="726" name="MED-100801"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1220"/>
+    <CustomMessage id="1017"/>
+    <CustomMessage id="1016"/>
+    <CustomMessage id="1219"/>
+    <CustomMessage id="1015"/>
+    <CustomMessage id="291"/>
+    <CustomMessage id="1014"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>108</id>
+  <firstName>Stacey</firstName>
+  <lastName>Sewell</lastName>
+  <loginName>ssewell</loginName>
+  <phone>(585) 223-9660 ext 301</phone>
+  <email>sewell100@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1091" name="MED-100846"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>109</id>
+  <firstName>Ingrid </firstName>
+  <lastName>Martin</lastName>
+  <loginName>IMartin</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="267" name="MED-100307"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1974"/>
+    <CustomMessage id="1503"/>
+    <CustomMessage id="1972"/>
+    <CustomMessage id="343"/>
+    <CustomMessage id="345"/>
+    <CustomMessage id="1329"/>
+    <CustomMessage id="1713"/>
+    <CustomMessage id="1327"/>
+    <CustomMessage id="1743"/>
+    <CustomMessage id="1973"/>
+    <CustomMessage id="344"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>110</id>
+  <firstName>Dr. Steven</firstName>
+  <lastName>Hill</lastName>
+  <loginName>SHill</loginName>
+  <phone/>
+  <email>sfhill@pol.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1191" name="MED-100817"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="830"/>
+    <CustomMessage id="295"/>
+    <CustomMessage id="396"/>
+    <CustomMessage id="694"/>
+    <CustomMessage id="1884"/>
+    <CustomMessage id="1976"/>
+    <CustomMessage id="1885"/>
+    <CustomMessage id="1825"/>
+    <CustomMessage id="1792"/>
+    <CustomMessage id="959"/>
+    <CustomMessage id="294"/>
+    <CustomMessage id="397"/>
+    <CustomMessage id="1793"/>
+    <CustomMessage id="892"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>112</id>
+  <firstName>Mike</firstName>
+  <lastName>Robertson</lastName>
+  <loginName>mrobertson</loginName>
+  <phone>(812) 378-7474</phone>
+  <email>mroberton@colgynam.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1226" name="MED-100874"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="304"/>
+    <CustomMessage id="303"/>
+    <CustomMessage id="302"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>113</id>
+  <firstName>Christy</firstName>
+  <lastName>Werner</lastName>
+  <loginName>cwerner</loginName>
+  <phone>(812) 933-1858</phone>
+  <email>crw329@msn.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1086" name="MED-100839"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="306"/>
+    <CustomMessage id="307"/>
+    <CustomMessage id="569"/>
+    <CustomMessage id="568"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>114</id>
+  <firstName>Toni</firstName>
+  <lastName>Renfroe</lastName>
+  <loginName>trenfroe</loginName>
+  <phone/>
+  <email>trenfroe-pfp@sbcglobal.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="140" name="MED-100159"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="308"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>115</id>
+  <firstName>Dr. David</firstName>
+  <lastName>Lush</lastName>
+  <loginName>riverviewhealth</loginName>
+  <phone/>
+  <email>riverviewhealth@willapaby.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1092" name="MED-100820"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1051"/>
+    <CustomMessage id="834"/>
+    <CustomMessage id="484"/>
+    <CustomMessage id="310"/>
+    <CustomMessage id="1030"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>116</id>
+  <firstName>Dianne</firstName>
+  <lastName>Schleuning</lastName>
+  <loginName>dschleuning</loginName>
+  <phone>(406) 237-5030</phone>
+  <email>diannes@imt.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="257" name="MED-100296"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>117</id>
+  <firstName>Kathy</firstName>
+  <lastName>Davis</lastName>
+  <loginName>kdavis</loginName>
+  <phone/>
+  <email>gindimddanville@hotmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="592" name="MED-100664"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="323"/>
+    <CustomMessage id="322"/>
+    <CustomMessage id="320"/>
+    <CustomMessage id="321"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>118</id>
+  <firstName>Kelly</firstName>
+  <lastName>Kilduff</lastName>
+  <loginName>kkilduff</loginName>
+  <phone/>
+  <email>Krkilduff@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="444" name="MED-100512"/>
+    <CMSign id="98" name="MED-100109"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1473"/>
+    <CustomMessage id="348"/>
+    <CustomMessage id="325"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>119</id>
+  <firstName>Makundl</firstName>
+  <lastName>Abdul-mbacke</lastName>
+  <loginName>mabdul</loginName>
+  <phone>(276) 634-0003</phone>
+  <email>mabdul97@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1221" name="MED-100873"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>120</id>
+  <firstName>Shrifh</firstName>
+  <lastName>Tomur</lastName>
+  <loginName>stomur</loginName>
+  <phone>(630) 375-0101</phone>
+  <email>stomur@msn.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1218" name="MED-100877"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>121</id>
+  <firstName>Maryanne</firstName>
+  <lastName>Dankert</lastName>
+  <loginName>mdankert</loginName>
+  <phone>(504) 710-3119</phone>
+  <email>madmaryan@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="702" name="MED-100771"/>
+    <CMSign id="692" name="MED-100770"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="331"/>
+    <CustomMessage id="327"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>122</id>
+  <firstName>Betsy</firstName>
+  <lastName>Robbins</lastName>
+  <loginName>brobbins</loginName>
+  <phone>(504) 838-3524</phone>
+  <email>daniellessfsm@questoffice.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="404" name="MED-100470"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1677"/>
+    <CustomMessage id="1652"/>
+    <CustomMessage id="1795"/>
+    <CustomMessage id="1653"/>
+    <CustomMessage id="1651"/>
+    <CustomMessage id="1661"/>
+    <CustomMessage id="1669"/>
+    <CustomMessage id="1678"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>123</id>
+  <firstName>Yvette</firstName>
+  <lastName>Wolf</lastName>
+  <loginName>ywolf</loginName>
+  <phone>(623) 849-4976</phone>
+  <email>yvettenwmc@hotmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="442"/>
+    <CustomMessage id="443"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>124</id>
+  <firstName>Kenneth</firstName>
+  <lastName>Mitchell</lastName>
+  <loginName>kmitchell</loginName>
+  <phone>(813) 843-4413</phone>
+  <email>podiatry1961@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="710" name="MED-100784"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="337"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>125</id>
+  <firstName>Kim</firstName>
+  <lastName>Madonna</lastName>
+  <loginName>kmadonna</loginName>
+  <phone>(912) 756-3872</phone>
+  <email>jwebb@coastalnow.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="216" name="MED-100248"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="336"/>
+    <CustomMessage id="682"/>
+    <CustomMessage id="437"/>
+    <CustomMessage id="596"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>126</id>
+  <firstName>Dr. VARINDER </firstName>
+  <lastName>Singh</lastName>
+  <loginName>vsingh</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="262" name="MED-100301"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="365"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>127</id>
+  <firstName>Barbara</firstName>
+  <lastName>Vint</lastName>
+  <loginName>bvint</loginName>
+  <phone/>
+  <email>burbeeg@steckmedical.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="566" name="MED-100638"/>
+    <CMSign id="565" name="MED-100637"/>
+    <CMSign id="648" name="MED-100719"/>
+    <CMSign id="568" name="MED-100640"/>
+    <CMSign id="567" name="MED-100639"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1306"/>
+    <CustomMessage id="1918"/>
+    <CustomMessage id="1081"/>
+    <CustomMessage id="1070"/>
+    <CustomMessage id="2062"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>128</id>
+  <firstName>Tammy</firstName>
+  <lastName>Sprouse</lastName>
+  <loginName>tsprouse</loginName>
+  <phone>(864) 227-6153</phone>
+  <email>tshatfieldclinic@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1193" name="MED-100851"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="340"/>
+    <CustomMessage id="339"/>
+    <CustomMessage id="341"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>129</id>
+  <firstName>Muin</firstName>
+  <lastName>Dugom</lastName>
+  <loginName>gmc1999</loginName>
+  <phone/>
+  <email>mdugom@nc.rr.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1074" name="MED-100834"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="353"/>
+    <CustomMessage id="1999"/>
+    <CustomMessage id="354"/>
+    <CustomMessage id="874"/>
+    <CustomMessage id="1986"/>
+    <CustomMessage id="352"/>
+    <CustomMessage id="1904"/>
+    <CustomMessage id="2013"/>
+    <CustomMessage id="1815"/>
+    <CustomMessage id="861"/>
+    <CustomMessage id="355"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>130</id>
+  <firstName>Joanne</firstName>
+  <lastName>Schroeter</lastName>
+  <loginName>jschroeter</loginName>
+  <phone>(847) 679-6707</phone>
+  <email>joanne_omg@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1237" name="MED-100898"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>131</id>
+  <firstName>Cindy</firstName>
+  <lastName>Wolff</lastName>
+  <loginName>cwolff</loginName>
+  <phone>(937) 277-1722</phone>
+  <email>cwolff@provmedgroup.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="609" name="MED-100681"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>132</id>
+  <firstName>Doina</firstName>
+  <lastName>Chiriacescu</lastName>
+  <loginName>dchiriacescu</loginName>
+  <phone>(847) 692-9234</phone>
+  <email>doina@whsmb.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="732" name="MED-100802"/>
+    <CMSign id="2030" name="MED-101280"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="728"/>
+    <CustomMessage id="658"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>133</id>
+  <firstName>Deanna</firstName>
+  <lastName>Bundy</lastName>
+  <loginName>dbundy</loginName>
+  <phone>(248) 569-7550</phone>
+  <email>lazmedicalgrop@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1225" name="MED-100878"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>134</id>
+  <firstName>Alice</firstName>
+  <lastName>Seldon</lastName>
+  <loginName>aseldon</loginName>
+  <phone>(706) 321-3901</phone>
+  <email>alice@williscma.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1192" name="MED-100821"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>135</id>
+  <firstName>Dr. Scott</firstName>
+  <lastName>Hammer</lastName>
+  <loginName>shammer</loginName>
+  <phone/>
+  <email>scottahammer@hotmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="473" name="MED-100541"/>
+    <CMSign id="1776" name="MED-101204"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1047"/>
+    <CustomMessage id="1548"/>
+    <CustomMessage id="2071"/>
+    <CustomMessage id="1816"/>
+    <CustomMessage id="1505"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>136</id>
+  <firstName>Anne</firstName>
+  <lastName>Bachtel</lastName>
+  <loginName>abachtel</loginName>
+  <phone/>
+  <email>Abachtel@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1239" name="MED-100890"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="471"/>
+    <CustomMessage id="367"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>137</id>
+  <firstName>Jeff</firstName>
+  <lastName>Wooley</lastName>
+  <loginName>jwooley</loginName>
+  <phone>(520) 868-0573</phone>
+  <email>jeff.wooley@urgentcareexpress.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1220" name="MED-100887"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="371"/>
+    <CustomMessage id="763"/>
+    <CustomMessage id="762"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>138</id>
+  <firstName>Jeff</firstName>
+  <lastName>Stanley</lastName>
+  <loginName>jstanley</loginName>
+  <phone/>
+  <email>jstanley@rchca.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1268" name="MED-100907"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="470"/>
+    <CustomMessage id="469"/>
+    <CustomMessage id="467"/>
+    <CustomMessage id="1622"/>
+    <CustomMessage id="1621"/>
+    <CustomMessage id="468"/>
+    <CustomMessage id="370"/>
+    <CustomMessage id="466"/>
+    <CustomMessage id="1620"/>
+    <CustomMessage id="1623"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>139</id>
+  <firstName>Jamey</firstName>
+  <lastName>DuVall</lastName>
+  <loginName>jduvall</loginName>
+  <phone/>
+  <email>JDuVall@watsonclinic.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="84" name="MED-100090"/>
+    <CMSign id="69" name="MED-100072"/>
+    <CMSign id="87" name="MED-100093"/>
+    <CMSign id="1346" name="MED-100977"/>
+    <CMSign id="86" name="MED-100092"/>
+    <CMSign id="1353" name="MED-100976"/>
+    <CMSign id="83" name="MED-100089"/>
+    <CMSign id="1352" name="MED-100975"/>
+    <CMSign id="82" name="MED-100088"/>
+    <CMSign id="71" name="MED-100074"/>
+    <CMSign id="85" name="MED-100091"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1820"/>
+    <CustomMessage id="1899"/>
+    <CustomMessage id="1944"/>
+    <CustomMessage id="1655"/>
+    <CustomMessage id="1877"/>
+    <CustomMessage id="1900"/>
+    <CustomMessage id="1802"/>
+    <CustomMessage id="1907"/>
+    <CustomMessage id="1742"/>
+    <CustomMessage id="1848"/>
+    <CustomMessage id="1727"/>
+    <CustomMessage id="2052"/>
+    <CustomMessage id="1847"/>
+    <CustomMessage id="1941"/>
+    <CustomMessage id="2076"/>
+    <CustomMessage id="1931"/>
+    <CustomMessage id="1845"/>
+    <CustomMessage id="1728"/>
+    <CustomMessage id="1861"/>
+    <CustomMessage id="864"/>
+    <CustomMessage id="2060"/>
+    <CustomMessage id="1942"/>
+    <CustomMessage id="2025"/>
+    <CustomMessage id="1846"/>
+    <CustomMessage id="1844"/>
+    <CustomMessage id="1943"/>
+    <CustomMessage id="1814"/>
+    <CustomMessage id="1849"/>
+    <CustomMessage id="1860"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>140</id>
+  <firstName>Christie</firstName>
+  <lastName>Obrien</lastName>
+  <loginName>cobrien</loginName>
+  <phone>(256) 237-6755</phone>
+  <email>cobrien@cableone.ney</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1217" name="MED-100885"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>142</id>
+  <firstName>Diana</firstName>
+  <lastName>Winham</lastName>
+  <loginName>dwinham</loginName>
+  <phone/>
+  <email>winhamd@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1076" name="MED-100836"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2059"/>
+    <CustomMessage id="1958"/>
+    <CustomMessage id="1245"/>
+    <CustomMessage id="501"/>
+    <CustomMessage id="1959"/>
+    <CustomMessage id="1934"/>
+    <CustomMessage id="502"/>
+    <CustomMessage id="392"/>
+    <CustomMessage id="1933"/>
+    <CustomMessage id="472"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>143</id>
+  <firstName>Michael</firstName>
+  <lastName>Buben</lastName>
+  <loginName>mbuben</loginName>
+  <phone>(360) 875-5226</phone>
+  <email>Mcbuben@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1190" name="MED-100818"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="434"/>
+    <CustomMessage id="899"/>
+    <CustomMessage id="1488"/>
+    <CustomMessage id="767"/>
+    <CustomMessage id="1077"/>
+    <CustomMessage id="393"/>
+    <CustomMessage id="1696"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>144</id>
+  <firstName>Young </firstName>
+  <lastName>Lee</lastName>
+  <loginName>ylee</loginName>
+  <phone>(215) 283-2838</phone>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1270" name="MED-100853"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="398"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>145</id>
+  <firstName>Erik</firstName>
+  <lastName>Spitzner</lastName>
+  <loginName>espitzner</loginName>
+  <phone>(217) 356-3736</phone>
+  <email>erik.spitzner@womenshealthpractice.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>146</id>
+  <firstName>Deborah</firstName>
+  <lastName>Bechstein</lastName>
+  <loginName>dbechstein</loginName>
+  <phone>(419) 291-6720</phone>
+  <email>Deborah.Bechstein@promedica.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="612" name="MED-100684"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>147</id>
+  <firstName>Denise</firstName>
+  <lastName>Martin</lastName>
+  <loginName>dmartin</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="615" name="MED-100687"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="632"/>
+    <CustomMessage id="838"/>
+    <CustomMessage id="633"/>
+    <CustomMessage id="1494"/>
+    <CustomMessage id="837"/>
+    <CustomMessage id="1493"/>
+    <CustomMessage id="742"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>148</id>
+  <firstName>Tammy</firstName>
+  <lastName>Carter</lastName>
+  <loginName>tcarter</loginName>
+  <phone/>
+  <email>clinic@netspeednow.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="437" name="MED-100505"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="403"/>
+    <CustomMessage id="404"/>
+    <CustomMessage id="406"/>
+    <CustomMessage id="405"/>
+    <CustomMessage id="707"/>
+    <CustomMessage id="706"/>
+    <CustomMessage id="1011"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>149</id>
+  <firstName>Robin</firstName>
+  <lastName>Matthews</lastName>
+  <loginName>rmatthews</loginName>
+  <phone>(828) 452-5042</phone>
+  <email>elvislivesinvegas@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1230" name="MED-100879"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>150</id>
+  <firstName>Melissa</firstName>
+  <lastName>Wendling</lastName>
+  <loginName>mwendling</loginName>
+  <phone>(708) 422-9771</phone>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1233" name="MED-100897"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>151</id>
+  <firstName>Susana</firstName>
+  <lastName>Garcia</lastName>
+  <loginName>sgarcia</loginName>
+  <phone>(803) 276-7978</phone>
+  <email>jogmd@earthlink.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1238" name="MED-100903"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="681"/>
+    <CustomMessage id="680"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>152</id>
+  <firstName>Tammy</firstName>
+  <lastName>Swart</lastName>
+  <loginName>tswart</loginName>
+  <phone>(361) 994-5454</phone>
+  <email>tswart@obgyncc.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="685" name="MED-100760"/>
+    <CMSign id="684" name="MED-100759"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="608"/>
+    <CustomMessage id="1914"/>
+    <CustomMessage id="411"/>
+    <CustomMessage id="1913"/>
+    <CustomMessage id="1616"/>
+    <CustomMessage id="1915"/>
+    <CustomMessage id="607"/>
+    <CustomMessage id="879"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>153</id>
+  <firstName>Gary</firstName>
+  <lastName>Cox</lastName>
+  <loginName>gcox</loginName>
+  <phone>(805) 769-0338</phone>
+  <email>emeraldobgyn@comcast.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1210" name="MED-100870"/>
+    <CMSign id="1208" name="MED-100868"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1075"/>
+    <CustomMessage id="1821"/>
+    <CustomMessage id="1822"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>154</id>
+  <firstName>Bridgett</firstName>
+  <lastName>Ravindra</lastName>
+  <loginName>bravindra</loginName>
+  <phone/>
+  <email>ezadoctors@comcast.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1207" name="MED-100867"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>155</id>
+  <firstName>Alisha</firstName>
+  <lastName>Giunta</lastName>
+  <loginName>agiunta</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="419" name="MED-100486"/>
+    <CMSign id="418" name="MED-100485"/>
+    <CMSign id="417" name="MED-100484"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>156</id>
+  <firstName>Ruth</firstName>
+  <lastName>Smallwood</lastName>
+  <loginName>rsmallwood</loginName>
+  <phone>(302) 430-7600</phone>
+  <email>aviadomd@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="505" name="MED-100576"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>157</id>
+  <firstName>Sally</firstName>
+  <lastName>Morales</lastName>
+  <loginName>smorales</loginName>
+  <phone>(562) 402-6707</phone>
+  <email>smorales@argusmso.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1314" name="MED-100931"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>158</id>
+  <firstName>Dawn</firstName>
+  <lastName>Bates</lastName>
+  <loginName>dbates</loginName>
+  <phone/>
+  <email>dbates@ssmpa.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1075" name="MED-100835"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2026"/>
+    <CustomMessage id="2045"/>
+    <CustomMessage id="1916"/>
+    <CustomMessage id="2028"/>
+    <CustomMessage id="1989"/>
+    <CustomMessage id="436"/>
+    <CustomMessage id="1988"/>
+    <CustomMessage id="2027"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>159</id>
+  <firstName>Jane</firstName>
+  <lastName>Stimmell</lastName>
+  <loginName>jstimmell</loginName>
+  <phone>(254) 803-3567</phone>
+  <email>jstimmell@fallshospital.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1206" name="MED-100864"/>
+    <CMSign id="1205" name="MED-100865"/>
+    <CMSign id="1203" name="MED-100863"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1526"/>
+    <CustomMessage id="1782"/>
+    <CustomMessage id="1779"/>
+    <CustomMessage id="1525"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>161</id>
+  <firstName>S</firstName>
+  <lastName>Shah</lastName>
+  <loginName>sshah</loginName>
+  <phone>(708) 407-0022</phone>
+  <email>rshah.111.shah@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="734" name="MED-100805"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="453"/>
+    <CustomMessage id="455"/>
+    <CustomMessage id="454"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>162</id>
+  <firstName>Maryann</firstName>
+  <lastName>Clark</lastName>
+  <loginName>mclark</loginName>
+  <phone>(610) 284-6400</phone>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="413" name="MED-100480"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="506"/>
+    <CustomMessage id="505"/>
+    <CustomMessage id="507"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>163</id>
+  <firstName>Rachel</firstName>
+  <lastName>Davidson</lastName>
+  <loginName>rdavidson</loginName>
+  <phone/>
+  <email>racheldavidson@rubyvalleyhospital.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1084" name="MED-100837"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="672"/>
+    <CustomMessage id="1565"/>
+    <CustomMessage id="1564"/>
+    <CustomMessage id="475"/>
+    <CustomMessage id="1024"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>165</id>
+  <firstName>Cherrie</firstName>
+  <lastName>Kramer</lastName>
+  <loginName>ckramer</loginName>
+  <phone>(913) 294-2305</phone>
+  <email>cherriepaolafamilypractice@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1341" name="MED-100967"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="473"/>
+    <CustomMessage id="557"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>167</id>
+  <firstName>Shama</firstName>
+  <lastName>Verma</lastName>
+  <loginName>sverma</loginName>
+  <phone/>
+  <email>info@foreveryoungwellnessspa.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="588" name="MED-100660"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>168</id>
+  <firstName>Angela</firstName>
+  <lastName>Hampton</lastName>
+  <loginName>AHampton</loginName>
+  <phone>478-742-6738</phone>
+  <email>angela.hampton@womenforwomenshealth.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1335" name="MED-100965"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1144"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>169</id>
+  <firstName>Maureen</firstName>
+  <lastName>Heslip</lastName>
+  <loginName>MHeslip</loginName>
+  <phone>(734) 475-8677</phone>
+  <email>Maureen_heslip@ihacares.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="182" name="MED-100207"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="482"/>
+    <CustomMessage id="481"/>
+    <CustomMessage id="486"/>
+    <CustomMessage id="803"/>
+    <CustomMessage id="485"/>
+    <CustomMessage id="846"/>
+    <CustomMessage id="802"/>
+    <CustomMessage id="787"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>170</id>
+  <firstName>Chris</firstName>
+  <lastName>Brull</lastName>
+  <loginName>cbrull</loginName>
+  <phone/>
+  <email>cbrull@pvmc.us</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="541" name="MED-100612"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1952"/>
+    <CustomMessage id="1187"/>
+    <CustomMessage id="975"/>
+    <CustomMessage id="2024"/>
+    <CustomMessage id="673"/>
+    <CustomMessage id="2006"/>
+    <CustomMessage id="674"/>
+    <CustomMessage id="1951"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>171</id>
+  <firstName>Jamshid</firstName>
+  <lastName>Mian</lastName>
+  <loginName>jmian</loginName>
+  <phone>(410) 642-2289</phone>
+  <email>jmian@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1299" name="MED-100937"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="695"/>
+    <CustomMessage id="530"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>172</id>
+  <firstName>ernest</firstName>
+  <lastName>chung</lastName>
+  <loginName>echung</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="545" name="MED-100616"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="514"/>
+    <CustomMessage id="518"/>
+    <CustomMessage id="517"/>
+    <CustomMessage id="516"/>
+    <CustomMessage id="515"/>
+    <CustomMessage id="519"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>173</id>
+  <firstName>Amy</firstName>
+  <lastName>Matthews</lastName>
+  <loginName>amathews</loginName>
+  <phone/>
+  <email>Amy.Mathews@utmg.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="442" name="MED-100510"/>
+    <CMSign id="145" name="MED-100164"/>
+    <CMSign id="440" name="MED-100509"/>
+    <CMSign id="443" name="MED-100511"/>
+    <CMSign id="439" name="MED-100508"/>
+    <CMSign id="144" name="MED-100163"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>174</id>
+  <firstName>nichole</firstName>
+  <lastName>hansen</lastName>
+  <loginName>nhansen</loginName>
+  <phone/>
+  <email>nicholeh75@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="364" name="MED-100421"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2053"/>
+    <CustomMessage id="1968"/>
+    <CustomMessage id="1969"/>
+    <CustomMessage id="2081"/>
+    <CustomMessage id="877"/>
+    <CustomMessage id="600"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>175</id>
+  <firstName>Zergabachew</firstName>
+  <lastName>Asfaw</lastName>
+  <loginName>zasfaw</loginName>
+  <phone/>
+  <email>Zasfaw@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1240" name="MED-100895"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1649"/>
+    <CustomMessage id="550"/>
+    <CustomMessage id="953"/>
+    <CustomMessage id="1223"/>
+    <CustomMessage id="886"/>
+    <CustomMessage id="1656"/>
+    <CustomMessage id="1957"/>
+    <CustomMessage id="1753"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>177</id>
+  <firstName>Pam </firstName>
+  <lastName>McDonald</lastName>
+  <loginName>pmcdonald</loginName>
+  <phone/>
+  <email>pmcduck40@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="334" name="MED-100383"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="565"/>
+    <CustomMessage id="563"/>
+    <CustomMessage id="564"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>178</id>
+  <firstName>Maryann</firstName>
+  <lastName>Mathieu</lastName>
+  <loginName>mmathieu</loginName>
+  <phone>(508)765-9522</phone>
+  <email>ma5923@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1204" name="MED-100861"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="841"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>179</id>
+  <firstName>Courtney</firstName>
+  <lastName>McMahon</lastName>
+  <loginName>cmcmahon</loginName>
+  <phone>(901) 725-0648</phone>
+  <email>cmcmahon@spsmemphis.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1312" name="MED-100949"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="946"/>
+    <CustomMessage id="947"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>180</id>
+  <firstName>Dawn</firstName>
+  <lastName>Gregory</lastName>
+  <loginName>dgregory</loginName>
+  <phone>(215) 258-3810</phone>
+  <email>dmgregory23@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1197" name="MED-100855"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="594"/>
+    <CustomMessage id="593"/>
+    <CustomMessage id="589"/>
+    <CustomMessage id="592"/>
+    <CustomMessage id="590"/>
+    <CustomMessage id="591"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>181</id>
+  <firstName>Donna</firstName>
+  <lastName>Hernandez</lastName>
+  <loginName>dhernandez</loginName>
+  <phone/>
+  <email>dhernandez@mysylacauga.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="272" name="MED-100315"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="588"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>182</id>
+  <firstName>Jaime</firstName>
+  <lastName>McCaffrey</lastName>
+  <loginName>jmccaffrey</loginName>
+  <phone>(336) 794-4109</phone>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1304" name="MED-100930"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="669"/>
+    <CustomMessage id="624"/>
+    <CustomMessage id="667"/>
+    <CustomMessage id="668"/>
+    <CustomMessage id="666"/>
+    <CustomMessage id="623"/>
+    <CustomMessage id="622"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>183</id>
+  <firstName>Brock</firstName>
+  <lastName>Lasure</lastName>
+  <loginName>blasure</loginName>
+  <phone>(402) 292-3136</phone>
+  <email>blasure77@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1426" name="MED-101036"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="853"/>
+    <CustomMessage id="1437"/>
+    <CustomMessage id="1436"/>
+    <CustomMessage id="653"/>
+    <CustomMessage id="1008"/>
+    <CustomMessage id="1071"/>
+    <CustomMessage id="732"/>
+    <CustomMessage id="734"/>
+    <CustomMessage id="736"/>
+    <CustomMessage id="652"/>
+    <CustomMessage id="2070"/>
+    <CustomMessage id="735"/>
+    <CustomMessage id="731"/>
+    <CustomMessage id="844"/>
+    <CustomMessage id="737"/>
+    <CustomMessage id="733"/>
+    <CustomMessage id="1009"/>
+    <CustomMessage id="738"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>184</id>
+  <firstName>Angela</firstName>
+  <lastName>Adair</lastName>
+  <loginName>aadair</loginName>
+  <phone>(662) 349-5554</phone>
+  <email>aadair@spsmemphis.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1318" name="MED-100947"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>185</id>
+  <firstName>Sean</firstName>
+  <lastName>Le</lastName>
+  <loginName>sle</loginName>
+  <phone>(773) 275-9194</phone>
+  <email>mai5511@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1379" name="MED-100997"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="640"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>189</id>
+  <firstName>Barbara</firstName>
+  <lastName>Diaz</lastName>
+  <loginName>bdiaz</loginName>
+  <phone>(773) 698-7004</phone>
+  <email>zapatamedcenter@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1417" name="MED-101026"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="651"/>
+    <CustomMessage id="650"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>190</id>
+  <firstName>Sharon</firstName>
+  <lastName>Hines</lastName>
+  <loginName>shines</loginName>
+  <phone/>
+  <email>ikgbems@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="660"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>191</id>
+  <firstName>Sara</firstName>
+  <lastName>Hedow</lastName>
+  <loginName>shedow</loginName>
+  <phone/>
+  <email>fhmedical@hotmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="104" name="MED-100117"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="655"/>
+    <CustomMessage id="656"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>192</id>
+  <firstName>Myriame</firstName>
+  <lastName>Thompson</lastName>
+  <loginName>mthompson</loginName>
+  <phone>(770) 8746497</phone>
+  <email>n/a</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="179" name="MED-100203"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="664"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>193</id>
+  <firstName>Denise</firstName>
+  <lastName>Maldonado</lastName>
+  <loginName>dmaldonado</loginName>
+  <phone>(717) 909-8331</phone>
+  <email>n/a</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1305" name="MED-100933"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="712"/>
+    <CustomMessage id="1109"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>194</id>
+  <firstName>Hiawatha</firstName>
+  <lastName>Martin</lastName>
+  <loginName>hmartin</loginName>
+  <phone>(662) 451-7988</phone>
+  <email>greenwoodcomp@bellsouth.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1381" name="MED-101001"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>195</id>
+  <firstName>Hiawatha</firstName>
+  <lastName>Martin</lastName>
+  <loginName>hiawatham</loginName>
+  <phone>(662) 451-7988</phone>
+  <email>greenwoodcomp@bellsouth.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1382" name="MED-101002"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>196</id>
+  <firstName>Renee</firstName>
+  <lastName>Lester</lastName>
+  <loginName>rlester</loginName>
+  <phone/>
+  <email>renee@novidocs.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="117" name="MED-100131"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1321"/>
+    <CustomMessage id="690"/>
+    <CustomMessage id="1226"/>
+    <CustomMessage id="677"/>
+    <CustomMessage id="676"/>
+    <CustomMessage id="1227"/>
+    <CustomMessage id="1994"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>198</id>
+  <firstName>Carrie</firstName>
+  <lastName>Rayner</lastName>
+  <loginName>crayner</loginName>
+  <phone/>
+  <email>n/a</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1401" name="MED-100790"/>
+    <CMSign id="1404" name="MED-100787"/>
+    <CMSign id="713" name="MED-100788"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="697"/>
+    <CustomMessage id="696"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>200</id>
+  <firstName>Julee</firstName>
+  <lastName>Franklin</lastName>
+  <loginName>jfranklin</loginName>
+  <phone/>
+  <email>juleenurse2be@hotmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1395" name="MED-101004"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="713"/>
+    <CustomMessage id="715"/>
+    <CustomMessage id="714"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>201</id>
+  <firstName>Pam</firstName>
+  <lastName>Olkowitz</lastName>
+  <loginName>polkowitz</loginName>
+  <phone/>
+  <email>n/a</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1215" name="MED-100872"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1658"/>
+    <CustomMessage id="1644"/>
+    <CustomMessage id="1643"/>
+    <CustomMessage id="1647"/>
+    <CustomMessage id="1645"/>
+    <CustomMessage id="1646"/>
+    <CustomMessage id="1657"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>203</id>
+  <firstName>Linda</firstName>
+  <lastName>Harold</lastName>
+  <loginName>lharold</loginName>
+  <phone/>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="284" name="MED-100332"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1709"/>
+    <CustomMessage id="1013"/>
+    <CustomMessage id="1520"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>208</id>
+  <firstName>Judy</firstName>
+  <lastName>Canant</lastName>
+  <loginName>jcanant</loginName>
+  <phone>(501) 320-5403</phone>
+  <email>jcanant@aristolle.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1418" name="MED-101030"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1447"/>
+    <CustomMessage id="839"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>209</id>
+  <firstName>Marti</firstName>
+  <lastName>Shadle</lastName>
+  <loginName>mshadle</loginName>
+  <phone>(856) 358-4018</phone>
+  <email>mshadle@elmerfamilypractice.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1431" name="MED-101037"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="752"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>210</id>
+  <firstName>jessica</firstName>
+  <lastName>smith</lastName>
+  <loginName>jsmith1</loginName>
+  <phone/>
+  <email>Jessica.Smith@innovativeclinicaltrials.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1432" name="MED-101041"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>211</id>
+  <firstName>Ruth</firstName>
+  <lastName>Mcgregor</lastName>
+  <loginName>rmcgregor</loginName>
+  <phone/>
+  <email>NA</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1459" name="MED-101042"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1237"/>
+    <CustomMessage id="2084"/>
+    <CustomMessage id="1726"/>
+    <CustomMessage id="1155"/>
+    <CustomMessage id="2085"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>212</id>
+  <firstName>Chelsea</firstName>
+  <lastName>Marr</lastName>
+  <loginName>cmarr</loginName>
+  <phone/>
+  <email>info@drplaster.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="481" name="MED-100549"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1557"/>
+    <CustomMessage id="1039"/>
+    <CustomMessage id="1309"/>
+    <CustomMessage id="1605"/>
+    <CustomMessage id="1694"/>
+    <CustomMessage id="1559"/>
+    <CustomMessage id="1665"/>
+    <CustomMessage id="1486"/>
+    <CustomMessage id="1666"/>
+    <CustomMessage id="1718"/>
+    <CustomMessage id="972"/>
+    <CustomMessage id="1558"/>
+    <CustomMessage id="1443"/>
+    <CustomMessage id="1296"/>
+    <CustomMessage id="1629"/>
+    <CustomMessage id="1295"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>213</id>
+  <firstName>Eric</firstName>
+  <lastName>Young</lastName>
+  <loginName>eyoung</loginName>
+  <phone/>
+  <email>eyoung@everwell.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1956" name="MED-111111"/>
+    <CMSign id="2095" name="MED-111111"/>
+    <CMSign id="2218" name="EVERWELL03"/>
+    <CMSign id="654" name="MED-111111"/>
+    <CMSign id="2138" name="MED-111111"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="1"/>
+  <customMessages>
+    <CustomMessage id="2072"/>
+    <CustomMessage id="1875"/>
+    <CustomMessage id="1876"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>214</id>
+  <firstName>Paul</firstName>
+  <lastName>Schultz</lastName>
+  <loginName>pschultz</loginName>
+  <phone/>
+  <email>Paul.Schultz@stjohn.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1289" name="MED-100929"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="820"/>
+    <CustomMessage id="821"/>
+    <CustomMessage id="819"/>
+    <CustomMessage id="964"/>
+    <CustomMessage id="818"/>
+    <CustomMessage id="817"/>
+    <CustomMessage id="822"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>215</id>
+  <firstName>Janice</firstName>
+  <lastName>Queener</lastName>
+  <loginName>jqueener</loginName>
+  <phone>(810) 494-6840</phone>
+  <email>janice_queener@ihacares.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="363" name="MED-100420"/>
+    <CMSign id="670" name="MED-100743"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1252"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>216</id>
+  <firstName>Rhonda</firstName>
+  <lastName>Lawson</lastName>
+  <loginName>rlawson</loginName>
+  <phone/>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="307" name="MED-100355"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="800"/>
+    <CustomMessage id="799"/>
+    <CustomMessage id="797"/>
+    <CustomMessage id="798"/>
+    <CustomMessage id="795"/>
+    <CustomMessage id="796"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>217</id>
+  <firstName>Nursat</firstName>
+  <lastName>Deen</lastName>
+  <loginName>ndeen</loginName>
+  <phone/>
+  <email>ndeen@apexmedicalresearch.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1243" name="MED-100902"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>218</id>
+  <firstName>Mitzi</firstName>
+  <lastName>Knight</lastName>
+  <loginName>mlknight</loginName>
+  <phone>(432)264-7181</phone>
+  <email>mitzi_knight@CHS.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1396" name="MED-101014"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>219</id>
+  <firstName>Anise</firstName>
+  <lastName>Burrell</lastName>
+  <loginName>aburrell</loginName>
+  <phone>313-272-8454</phone>
+  <email>summdet@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1572" name="MED-101081"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="836"/>
+    <CustomMessage id="835"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>220</id>
+  <firstName>Bassan</firstName>
+  <lastName>Moushmoush</lastName>
+  <loginName>bmoushmoush</loginName>
+  <phone>(304) 347-2042</phone>
+  <email>doublemoush@hotmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1465" name="MED-101056"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>221</id>
+  <firstName>Dr. John</firstName>
+  <lastName>Filip</lastName>
+  <loginName>jfilip</loginName>
+  <phone/>
+  <email>johnfilip@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="414" name="MED-100481"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>222</id>
+  <firstName>Latasha</firstName>
+  <lastName>Phillips</lastName>
+  <loginName>lphillips</loginName>
+  <phone>(618) 482-7922</phone>
+  <email>lphillips@sirwc.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1457" name="MED-101054"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1600"/>
+    <CustomMessage id="1522"/>
+    <CustomMessage id="842"/>
+    <CustomMessage id="851"/>
+    <CustomMessage id="843"/>
+    <CustomMessage id="852"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>223</id>
+  <firstName>Patti</firstName>
+  <lastName>Morrison</lastName>
+  <loginName>pmorrison</loginName>
+  <phone/>
+  <email>PMorrison.achc@Sbcglobal.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="531" name="MED-100602"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1983"/>
+    <CustomMessage id="1674"/>
+    <CustomMessage id="2018"/>
+    <CustomMessage id="1675"/>
+    <CustomMessage id="1391"/>
+    <CustomMessage id="1982"/>
+    <CustomMessage id="1981"/>
+    <CustomMessage id="2019"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>224</id>
+  <firstName>Leah</firstName>
+  <lastName>Danao</lastName>
+  <loginName>ldanao</loginName>
+  <phone/>
+  <email>geriatricmd@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="242" name="MED-100279"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1048"/>
+    <CustomMessage id="906"/>
+    <CustomMessage id="855"/>
+    <CustomMessage id="905"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>225</id>
+  <firstName>Yvonne</firstName>
+  <lastName>Tudor</lastName>
+  <loginName>ytudor</loginName>
+  <phone/>
+  <email>ytudor@provmedgroup.com</email>
+  <activeInactive>false</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>226</id>
+  <firstName>Charles</firstName>
+  <lastName>Wootten</lastName>
+  <loginName>chuckwootten</loginName>
+  <phone/>
+  <email>cdwoga@earthlink.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="607" name="MED-100679"/>
+    <CMSign id="605" name="MED-100677"/>
+    <CMSign id="606" name="MED-100678"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>227</id>
+  <firstName>Neeta</firstName>
+  <lastName>Pathakji</lastName>
+  <loginName>npathakji</loginName>
+  <phone>973.674.4542</phone>
+  <email>rameshkania@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1283" name="MED-100920"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="885"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>229</id>
+  <firstName>Eileen</firstName>
+  <lastName>Carpenter</lastName>
+  <loginName>ecarpenter</loginName>
+  <phone/>
+  <email>efc924@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="432" name="MED-100500"/>
+    <CMSign id="430" name="MED-100498"/>
+    <CMSign id="431" name="MED-100499"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1970"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>230</id>
+  <firstName>Caroline</firstName>
+  <lastName>Salinas</lastName>
+  <loginName>csalinas</loginName>
+  <phone>(713) 527-5626</phone>
+  <email>csalinas_3@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1584" name="MED-101091"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="908"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>231</id>
+  <firstName>Forrest</firstName>
+  <lastName>Harris</lastName>
+  <loginName>fharris</loginName>
+  <phone/>
+  <email>fharris@mercy-chicago.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1793" name="MED-101214"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1555"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>232</id>
+  <firstName>Kathy</firstName>
+  <lastName>Fleming</lastName>
+  <loginName>kfleming</loginName>
+  <phone/>
+  <email>kathyfleming2@comcast.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1600" name="MED-101101"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1467"/>
+    <CustomMessage id="1466"/>
+    <CustomMessage id="954"/>
+    <CustomMessage id="935"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>233</id>
+  <firstName>Shane</firstName>
+  <lastName>Cook</lastName>
+  <loginName>scook</loginName>
+  <phone/>
+  <email>shanecook0916@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1589" name="MED-101092"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2000"/>
+    <CustomMessage id="1599"/>
+    <CustomMessage id="1012"/>
+    <CustomMessage id="921"/>
+    <CustomMessage id="923"/>
+    <CustomMessage id="2069"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>234</id>
+  <firstName>Mary </firstName>
+  <lastName>England</lastName>
+  <loginName>mengland</loginName>
+  <phone>(303) 688-</phone>
+  <email>mengland@plumcreekmedical.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1618" name="MED-101060"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1352"/>
+    <CustomMessage id="971"/>
+    <CustomMessage id="1068"/>
+    <CustomMessage id="1294"/>
+    <CustomMessage id="1069"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>235</id>
+  <firstName>Alma</firstName>
+  <lastName>Gutierrezs</lastName>
+  <loginName>agutierrez</loginName>
+  <phone/>
+  <email>nmmgroup10@sbcglobal.et</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>2</passwordCounter>
+  <signs>
+    <CMSign id="1460" name="MED-101043"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>236</id>
+  <firstName>Kari</firstName>
+  <lastName>Haywood</lastName>
+  <loginName>khaywood</loginName>
+  <phone/>
+  <email>karihaywood@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1583" name="MED-101087"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="956"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>237</id>
+  <firstName>Phia</firstName>
+  <lastName>Williams</lastName>
+  <loginName>pwilliams</loginName>
+  <phone/>
+  <email>pwilliams@mhg.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1655" name="MED-101113"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>238</id>
+  <firstName>Michael</firstName>
+  <lastName>Pitcher</lastName>
+  <loginName>mpitcher</loginName>
+  <phone/>
+  <email>Michael@sunshinehealthcaresolutions.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1674" name="MED-101138"/>
+    <CMSign id="1933" name="MED-101267"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="962"/>
+    <CustomMessage id="963"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>239</id>
+  <firstName>user1</firstName>
+  <lastName>user1</lastName>
+  <loginName>user1</loginName>
+  <phone>1234567890</phone>
+  <email>alee@netkey.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="967"/>
+    <CustomMessage id="966"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>259</id>
+  <firstName>Thomas</firstName>
+  <lastName>McMarrick</lastName>
+  <loginName>tmccarrick</loginName>
+  <phone/>
+  <email>tmccarrick@townmedical.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1594" name="MED-101096"/>
+    <CMSign id="1593" name="MED-101095"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1092"/>
+    <CustomMessage id="1243"/>
+    <CustomMessage id="1091"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>260</id>
+  <firstName>Danny</firstName>
+  <lastName>Moats</lastName>
+  <loginName>dmoats</loginName>
+  <phone/>
+  <email>NA</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1595" name="MED-101099"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1021"/>
+    <CustomMessage id="1922"/>
+    <CustomMessage id="1921"/>
+    <CustomMessage id="1046"/>
+    <CustomMessage id="1038"/>
+    <CustomMessage id="1975"/>
+    <CustomMessage id="2002"/>
+    <CustomMessage id="2001"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>261</id>
+  <firstName>Frank</firstName>
+  <lastName>McKnight</lastName>
+  <loginName>fmcknight</loginName>
+  <phone>(901) 494-3171</phone>
+  <email>mcknightfrank4@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1389" name="MED-101010"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>262</id>
+  <firstName>Toni </firstName>
+  <lastName>Wood</lastName>
+  <loginName>twood</loginName>
+  <phone/>
+  <email>twood@buttechc.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1700" name="MED-101145"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>263</id>
+  <firstName>Melissa</firstName>
+  <lastName>Jerry</lastName>
+  <loginName>mjerry</loginName>
+  <phone/>
+  <email>NA</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1668" name="MED-101115"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>264</id>
+  <firstName>Tiffany</firstName>
+  <lastName>Williams</lastName>
+  <loginName>twilliams</loginName>
+  <phone>(909) 434-1150</phone>
+  <email>twilliams@sach.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1699" name="MED-101155"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1020"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>266</id>
+  <firstName>Marisa</firstName>
+  <lastName>Narvaez</lastName>
+  <loginName>mnarvaez</loginName>
+  <phone/>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1712" name="MED-101162"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>267</id>
+  <firstName>Venus</firstName>
+  <lastName>Elliot</lastName>
+  <loginName>velliot</loginName>
+  <phone/>
+  <email>velliott@urgentcareinc.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1615" name="MED-101068"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>268</id>
+  <firstName>Sonia</firstName>
+  <lastName>Cavazos</lastName>
+  <loginName>scavazos</loginName>
+  <phone/>
+  <email>sonia@dlmdpa.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1365" name="MED-100987"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1027"/>
+    <CustomMessage id="1302"/>
+    <CustomMessage id="1303"/>
+    <CustomMessage id="1022"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>270</id>
+  <firstName>Kamal</firstName>
+  <lastName>Jeffers</lastName>
+  <loginName>kjeffers</loginName>
+  <phone/>
+  <email>billing@nowurgentcare.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="362" name="MED-100419"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>271</id>
+  <firstName>Christina</firstName>
+  <lastName>Herrington</lastName>
+  <loginName>cherrington</loginName>
+  <phone/>
+  <email>N/A</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1701" name="Med-101144"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1031"/>
+    <CustomMessage id="1045"/>
+    <CustomMessage id="1032"/>
+    <CustomMessage id="1080"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>274</id>
+  <firstName>Maryann</firstName>
+  <lastName>Heitmann</lastName>
+  <loginName>mheitmann</loginName>
+  <phone/>
+  <email>pikemgr@totalcarephysicians.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="43" name="MED-100039"/>
+    <CMSign id="41" name="MED-100037"/>
+    <CMSign id="42" name="MED-100038"/>
+    <CMSign id="40" name="MED-100036"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1242"/>
+    <CustomMessage id="1817"/>
+    <CustomMessage id="1963"/>
+    <CustomMessage id="1240"/>
+    <CustomMessage id="1964"/>
+    <CustomMessage id="1293"/>
+    <CustomMessage id="1241"/>
+    <CustomMessage id="1053"/>
+    <CustomMessage id="1604"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>275</id>
+  <firstName>Cristina</firstName>
+  <lastName>Placyk</lastName>
+  <loginName>cplacyk</loginName>
+  <phone/>
+  <email>cristinap@badolato.biz</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="19" name="MED-100014"/>
+    <CMSign id="18" name="MED-100013"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1894"/>
+    <CustomMessage id="1506"/>
+    <CustomMessage id="1508"/>
+    <CustomMessage id="1895"/>
+    <CustomMessage id="1896"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>276</id>
+  <firstName>Brittney</firstName>
+  <lastName>Wink</lastName>
+  <loginName>bwink</loginName>
+  <phone/>
+  <email>NA</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="699" name="MED-100765"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>277</id>
+  <firstName>Sheryl </firstName>
+  <lastName>Tuck</lastName>
+  <loginName>stuck</loginName>
+  <phone/>
+  <email>sheryl.tuck@dayonehealthcare.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="55" name="MED-100051"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1073"/>
+    <CustomMessage id="2035"/>
+    <CustomMessage id="1824"/>
+    <CustomMessage id="1791"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>281</id>
+  <firstName>Christina</firstName>
+  <lastName>Tuchsen</lastName>
+  <loginName>ctuchsen</loginName>
+  <phone/>
+  <email>ctuchsen@me.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1675" name="MED-101139"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1930"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>285</id>
+  <firstName>Charles</firstName>
+  <lastName>Whitaker</lastName>
+  <loginName>cwhitaker</loginName>
+  <phone>(15177363191</phone>
+  <email>docwhitaker4@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1697" name="MED-101151"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1093"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>324</id>
+  <firstName>Sy</firstName>
+  <lastName>Medical</lastName>
+  <loginName>symedical</loginName>
+  <phone>(678) 860-5415</phone>
+  <email>symedang@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1773" name="MED-101207"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1892"/>
+    <CustomMessage id="1910"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>359</id>
+  <firstName>Kim</firstName>
+  <lastName>Beal</lastName>
+  <loginName>mweigley</loginName>
+  <phone/>
+  <email>kimbeal76@msn.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1650" name="MED-101135"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1116"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>367</id>
+  <firstName>Monika</firstName>
+  <lastName>Bowman</lastName>
+  <loginName>mbowman</loginName>
+  <phone/>
+  <email>N/A</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1351" name="MED-100972"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1135"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>373</id>
+  <firstName>Myla</firstName>
+  <lastName>Pascua</lastName>
+  <loginName>mpascua</loginName>
+  <phone/>
+  <email>Mylapascua@cox.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="447" name="MED-100515"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1407"/>
+    <CustomMessage id="1143"/>
+    <CustomMessage id="1715"/>
+    <CustomMessage id="1138"/>
+    <CustomMessage id="1991"/>
+    <CustomMessage id="1149"/>
+    <CustomMessage id="1148"/>
+    <CustomMessage id="1716"/>
+    <CustomMessage id="1150"/>
+    <CustomMessage id="1990"/>
+    <CustomMessage id="1151"/>
+    <CustomMessage id="1139"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>375</id>
+  <firstName>Jessica</firstName>
+  <lastName>Smith</lastName>
+  <loginName>jsmith</loginName>
+  <phone/>
+  <email>n/a</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1690" name="MED-101125"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1432"/>
+    <CustomMessage id="1177"/>
+    <CustomMessage id="1763"/>
+    <CustomMessage id="1764"/>
+    <CustomMessage id="1762"/>
+    <CustomMessage id="2064"/>
+    <CustomMessage id="1759"/>
+    <CustomMessage id="2063"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>376</id>
+  <firstName>Pamela</firstName>
+  <lastName>Bohon</lastName>
+  <loginName>pbohon</loginName>
+  <phone>(662) 329-3808</phone>
+  <email>pabohon@nmhs.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="658" name="MED-100727"/>
+    <CMSign id="1619" name="MED-101063"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1235"/>
+    <CustomMessage id="1232"/>
+    <CustomMessage id="1233"/>
+    <CustomMessage id="1234"/>
+    <CustomMessage id="1231"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>378</id>
+  <firstName>Pat</firstName>
+  <lastName>Doolan</lastName>
+  <loginName>pdoolan</loginName>
+  <phone/>
+  <email>pdglenwood@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1373" name="MED-100995"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1185"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>379</id>
+  <firstName>Kelli</firstName>
+  <lastName>Zwiers</lastName>
+  <loginName>kzwiers</loginName>
+  <phone/>
+  <email>k.zwiers@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="268" name="MED-100308"/>
+    <CMSign id="341" name="MED-100392"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>380</id>
+  <firstName>JOesph</firstName>
+  <lastName>Hurst</lastName>
+  <loginName>jhurst</loginName>
+  <phone/>
+  <email>joesphhurstmd@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1755" name="MED-101189"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>382</id>
+  <firstName>Christy</firstName>
+  <lastName>Fox</lastName>
+  <loginName>cfox</loginName>
+  <phone/>
+  <email>cfoxbwfp@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="554" name="MED-100626"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1607"/>
+    <CustomMessage id="1608"/>
+    <CustomMessage id="1654"/>
+    <CustomMessage id="1697"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>383</id>
+  <firstName>Ravinder</firstName>
+  <lastName>Singh</lastName>
+  <loginName>rsingh</loginName>
+  <phone/>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1737" name="MED-101178"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1228"/>
+    <CustomMessage id="1805"/>
+    <CustomMessage id="1229"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>384</id>
+  <firstName>Shawn</firstName>
+  <lastName>Toloui</lastName>
+  <loginName>stoloui</loginName>
+  <phone/>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1778" name="MED-101210"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1284"/>
+    <CustomMessage id="1285"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>386</id>
+  <firstName>Becky</firstName>
+  <lastName>Wallace</lastName>
+  <loginName>bwallace</loginName>
+  <phone>575-461-2200</phone>
+  <email>n/a</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1811" name="MED-101196"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1342"/>
+    <CustomMessage id="1470"/>
+    <CustomMessage id="1341"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>387</id>
+  <firstName>Amy</firstName>
+  <lastName>Cox</lastName>
+  <loginName>acox</loginName>
+  <phone>641-844-6206</phone>
+  <email>acox@marshmed.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1727" name="MED-101172"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1396"/>
+    <CustomMessage id="1322"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>390</id>
+  <firstName>David</firstName>
+  <lastName>Zaitz</lastName>
+  <loginName>dzaitz</loginName>
+  <phone/>
+  <email>dzaitz@svghd.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1774" name="MED-101209"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1370"/>
+    <CustomMessage id="1382"/>
+    <CustomMessage id="1368"/>
+    <CustomMessage id="1372"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>392</id>
+  <firstName>Jennifer</firstName>
+  <lastName>Jenkins</lastName>
+  <loginName>jjenkins</loginName>
+  <phone/>
+  <email>pcresearch@sbcglobel.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1575" name="MED-101076"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1287"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>393</id>
+  <firstName>Kelly</firstName>
+  <lastName>Obenour</lastName>
+  <loginName>kobenour</loginName>
+  <phone/>
+  <email>kelly@meadowbrookbirmingham.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1685" name="MED-101130"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1938"/>
+    <CustomMessage id="1308"/>
+    <CustomMessage id="1292"/>
+    <CustomMessage id="1550"/>
+    <CustomMessage id="1307"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>395</id>
+  <firstName>Kathy</firstName>
+  <lastName>St. Louis</lastName>
+  <loginName>kstlouis</loginName>
+  <phone>(516) 805-1450</phone>
+  <email>estlo93320@Aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="331" name="MED-100380"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1602"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>397</id>
+  <firstName>Forrest</firstName>
+  <lastName>Harris</lastName>
+  <loginName>mm43rd</loginName>
+  <phone>(312) 504-0145</phone>
+  <email>  fharris@mercy-chicago.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1814" name="MED-101198"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1553"/>
+    <CustomMessage id="1554"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>398</id>
+  <firstName>Chris </firstName>
+  <lastName>Traeger</lastName>
+  <loginName>ctraeger</loginName>
+  <phone/>
+  <email>chris.traeger@fairlightmedcenter.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="411" name="MED-100478"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>399</id>
+  <firstName>Jessica</firstName>
+  <lastName>Cornel</lastName>
+  <loginName>jcornell</loginName>
+  <phone/>
+  <email>N/A</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1713" name="MED-101159"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2009"/>
+    <CustomMessage id="1801"/>
+    <CustomMessage id="1603"/>
+    <CustomMessage id="1398"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>401</id>
+  <firstName>Sonia</firstName>
+  <lastName>Denham</lastName>
+  <loginName>sdenham</loginName>
+  <phone/>
+  <email>SoniaDenham@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1772" name="MED-101206"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1923"/>
+    <CustomMessage id="1383"/>
+    <CustomMessage id="1924"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>402</id>
+  <firstName>Barry</firstName>
+  <lastName>Mayers</lastName>
+  <loginName>bmayers</loginName>
+  <phone/>
+  <email>Barry3676@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="213" name="MED-100243"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>403</id>
+  <firstName>John</firstName>
+  <lastName>Mathew</lastName>
+  <loginName>jmathew</loginName>
+  <phone/>
+  <email>N/A</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1771" name="MED-101205"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1803"/>
+    <CustomMessage id="1804"/>
+    <CustomMessage id="1768"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>404</id>
+  <firstName>Jillian</firstName>
+  <lastName>Clay</lastName>
+  <loginName>jclay</loginName>
+  <phone/>
+  <email>jillianclay@verizon.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1838" name="MED-101240"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>405</id>
+  <firstName>Jolanda</firstName>
+  <lastName>Wulf</lastName>
+  <loginName>jwulf</loginName>
+  <phone/>
+  <email>N/A</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1222" name="MED-100882"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1462"/>
+    <CustomMessage id="1461"/>
+    <CustomMessage id="1469"/>
+    <CustomMessage id="1451"/>
+    <CustomMessage id="1452"/>
+    <CustomMessage id="1453"/>
+    <CustomMessage id="1459"/>
+    <CustomMessage id="1463"/>
+    <CustomMessage id="1468"/>
+    <CustomMessage id="1460"/>
+    <CustomMessage id="1843"/>
+    <CustomMessage id="1456"/>
+    <CustomMessage id="1458"/>
+    <CustomMessage id="1465"/>
+    <CustomMessage id="1454"/>
+    <CustomMessage id="1455"/>
+    <CustomMessage id="1457"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>407</id>
+  <firstName>Sue</firstName>
+  <lastName>Harder</lastName>
+  <loginName>sharder</loginName>
+  <phone/>
+  <email>ssharder@comcast.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1686" name="MED-101116"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>408</id>
+  <firstName>Brian</firstName>
+  <lastName>Dean</lastName>
+  <loginName>bdean</loginName>
+  <phone/>
+  <email>BDean@phgrp.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="165" name="MED-100186"/>
+    <CMSign id="163" name="MED-100184"/>
+    <CMSign id="164" name="MED-100185"/>
+    <CMSign id="162" name="MED-100183"/>
+    <CMSign id="679" name="MED-100754"/>
+    <CMSign id="1274" name="MED-100912"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1699"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>409</id>
+  <firstName>Angel</firstName>
+  <lastName>Cordero</lastName>
+  <loginName>acordero</loginName>
+  <phone/>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1946" name="MED-101271"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1567"/>
+    <CustomMessage id="2066"/>
+    <CustomMessage id="1962"/>
+    <CustomMessage id="2020"/>
+    <CustomMessage id="1765"/>
+    <CustomMessage id="1920"/>
+    <CustomMessage id="2065"/>
+    <CustomMessage id="1737"/>
+    <CustomMessage id="1640"/>
+    <CustomMessage id="1998"/>
+    <CustomMessage id="1781"/>
+    <CustomMessage id="1960"/>
+    <CustomMessage id="1954"/>
+    <CustomMessage id="1961"/>
+    <CustomMessage id="1978"/>
+    <CustomMessage id="1953"/>
+    <CustomMessage id="1671"/>
+    <CustomMessage id="2029"/>
+    <CustomMessage id="1552"/>
+    <CustomMessage id="1596"/>
+    <CustomMessage id="1597"/>
+    <CustomMessage id="1562"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>410</id>
+  <firstName>Kadie</firstName>
+  <lastName>Leach</lastName>
+  <loginName>kleach</loginName>
+  <phone/>
+  <email>na</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="523" name="MED-100594"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1561"/>
+    <CustomMessage id="1560"/>
+    <CustomMessage id="1869"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>414</id>
+  <firstName>Marquette</firstName>
+  <lastName>Colbert</lastName>
+  <loginName>mcolbert</loginName>
+  <phone/>
+  <email>m_colbert@sbcglobal.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1996" name="MED-101278"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1710"/>
+    <CustomMessage id="1641"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>416</id>
+  <firstName>Dr.Arnold</firstName>
+  <lastName>Pallay</lastName>
+  <loginName>apallay</loginName>
+  <phone/>
+  <email>aipmd1@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1992" name="MED-101275"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1868"/>
+    <CustomMessage id="1867"/>
+    <CustomMessage id="1741"/>
+    <CustomMessage id="1866"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>417</id>
+  <firstName>Lorraine</firstName>
+  <lastName>Sterling</lastName>
+  <loginName>lsterling</loginName>
+  <phone/>
+  <email>Lebsterling@aol.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="533" name="MED-100604"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>418</id>
+  <firstName>Connie</firstName>
+  <lastName>O'Dell</lastName>
+  <loginName>codell</loginName>
+  <phone/>
+  <email>codell@marshallmedical.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1451" name="MED-101044"/>
+    <CMSign id="1450" name="MED-101045"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2021"/>
+    <CustomMessage id="2022"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>419</id>
+  <firstName>Netkey</firstName>
+  <lastName>Admin</lastName>
+  <loginName>netkey.admin</loginName>
+  <phone/>
+  <email>joe.kantrow@ncr.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="2053" name="NKDEV03"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="1"/>
+  <customMessages>
+    <CustomMessage id="1707"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>422</id>
+  <firstName>Health</firstName>
+  <lastName>Texas</lastName>
+  <loginName>HealthTexas</loginName>
+  <phone>972-860-8633</phone>
+  <email>jean.sullivan@baylorhealth.edu</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="2086" name="MED-101286"/>
+    <CMSign id="2118" name="MED-101298"/>
+    <CMSign id="2168" name="MED-101306"/>
+    <CMSign id="2162" name="MED-101312"/>
+    <CMSign id="2062" name="MED-101284"/>
+    <CMSign id="2249" name="MED-101344"/>
+    <CMSign id="2182" name="MED-101323"/>
+    <CMSign id="2247" name="MED-101345"/>
+    <CMSign id="2132" name="MED-101296"/>
+    <CMSign id="2258" name="MED-101349"/>
+    <CMSign id="2183" name="MED-101319"/>
+    <CMSign id="2117" name="MED-101297"/>
+    <CMSign id="2146" name="MED-101316"/>
+    <CMSign id="2224" name="MED-101327"/>
+    <CMSign id="2205" name="MED-101324"/>
+    <CMSign id="2208" name="MED-101308"/>
+    <CMSign id="2119" name="MED-101299"/>
+    <CMSign id="2257" name="MED-101348"/>
+    <CMSign id="2057" name="MED-101285"/>
+    <CMSign id="2225" name="MED-101331"/>
+    <CMSign id="2140" name="MED-101301"/>
+    <CMSign id="2172" name="MED-101322"/>
+    <CMSign id="2093" name="MED-101291"/>
+    <CMSign id="2157" name="MED-101318"/>
+    <CMSign id="2222" name="MED-101326"/>
+    <CMSign id="2251" name="MED-101346"/>
+    <CMSign id="2083" name="MED-101294"/>
+    <CMSign id="2094" name="MED-101293"/>
+    <CMSign id="2136" name="MED-101310"/>
+    <CMSign id="2173" name="MED-101305"/>
+    <CMSign id="2248" name="MED-101347"/>
+    <CMSign id="2207" name="MED-101325"/>
+    <CMSign id="2234" name="MED-101342"/>
+    <CMSign id="2131" name="MED-101295"/>
+    <CMSign id="2134" name="MED-101288"/>
+    <CMSign id="2142" name="MED-101314"/>
+    <CMSign id="2155" name="MED-101321"/>
+    <CMSign id="2141" name="MED-101304"/>
+    <CMSign id="2165" name="MED-101311"/>
+    <CMSign id="2084" name="MED-101292"/>
+    <CMSign id="2163" name="MED-101320"/>
+    <CMSign id="2145" name="MED-101315"/>
+    <CMSign id="2166" name="MED-101313"/>
+    <CMSign id="2144" name="MED-101313"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1891"/>
+    <CustomMessage id="1818"/>
+    <CustomMessage id="1729"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>423</id>
+  <firstName>Jennifer</firstName>
+  <lastName>Oden</lastName>
+  <loginName>joden</loginName>
+  <phone>205.271.5649</phone>
+  <email>joden@birminghamobgyn.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="454" name="MED-100522"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1775"/>
+    <CustomMessage id="1774"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>424</id>
+  <firstName>North</firstName>
+  <lastName>Bay</lastName>
+  <loginName>NorthBay</loginName>
+  <phone>(410) 398-8300</phone>
+  <email>janetrkeithley@yahoo.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="458" name="MED-100526"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1734"/>
+    <CustomMessage id="1732"/>
+    <CustomMessage id="1730"/>
+    <CustomMessage id="1731"/>
+    <CustomMessage id="1733"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>425</id>
+  <firstName>Steve</firstName>
+  <lastName>Castillo</lastName>
+  <loginName>SCastillo</loginName>
+  <phone>509-246-0540</phone>
+  <email>hpolanski@everwell.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>427</id>
+  <firstName>Maurice</firstName>
+  <lastName>Armstrong</lastName>
+  <loginName>MArmstrong</loginName>
+  <phone>352.732.9922 x182</phone>
+  <email>budbowtie@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="535" name="MED-100606"/>
+    <CMSign id="536" name="MED-100607"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1748"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>428</id>
+  <firstName>Banner</firstName>
+  <lastName>Health</lastName>
+  <loginName>banner</loginName>
+  <phone/>
+  <email>Claudia.Wojdylak@Bannerhealth.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="124" name="MED-100138"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>429</id>
+  <firstName>Dayton</firstName>
+  <lastName>Medical</lastName>
+  <loginName>daytonmedical</loginName>
+  <phone>(937) 241-5608</phone>
+  <email>www.daytonmed.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="423" name="MED-100490"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1767"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>431</id>
+  <firstName>Vilma</firstName>
+  <lastName>Rodriguez</lastName>
+  <loginName>vilmar</loginName>
+  <phone>(708) 681-3200</phone>
+  <email>vilmar@ccmconsultants.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="2055" name="MED-100363"/>
+    <CMSign id="2059" name="MED-100363-NEW1"/>
+    <CMSign id="315" name="MED-100363"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1800"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>433</id>
+  <firstName>Andrew</firstName>
+  <lastName>Spratt</lastName>
+  <loginName>aspratt</loginName>
+  <phone/>
+  <email>aspratt@everwell.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="17" name="MED-100010"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1874"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>435</id>
+  <firstName>Katina</firstName>
+  <lastName>Morrow</lastName>
+  <loginName>kmorrow</loginName>
+  <phone>618-215-4714</phone>
+  <email>kmorrow@sirwc.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1385" name="MED-101003"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1909"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>436</id>
+  <firstName>Total</firstName>
+  <lastName>Pines</lastName>
+  <loginName>totalpines</loginName>
+  <phone>	(954) 983-1119</phone>
+  <email>drhirschenson@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="301" name="MED-100349"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1911"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>437</id>
+  <firstName>Darren</firstName>
+  <lastName>Wercinski</lastName>
+  <loginName>Darren</loginName>
+  <phone/>
+  <email>lgoldfarb@everwell.com</email>
+  <activeInactive>false</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1939"/>
+    <CustomMessage id="1940"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>440</id>
+  <firstName>Tom</firstName>
+  <lastName>Cusumano</lastName>
+  <loginName>tcusumano</loginName>
+  <phone>510.656.5700</phone>
+  <email>tec@doctorsexpress.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="2209" name="SUB-991001"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2077"/>
+    <CustomMessage id="2078"/>
+    <CustomMessage id="2073"/>
+    <CustomMessage id="2079"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>443</id>
+  <firstName>Loren</firstName>
+  <lastName>Goldfarb</lastName>
+  <loginName>loren.cm2</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="4"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>444</id>
+  <firstName>Ruth</firstName>
+  <lastName>Jenning</lastName>
+  <loginName>rjenning</loginName>
+  <phone>(410) 601-9300</phone>
+  <email>rjenning@lifebridgehealth.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1362" name="MED-100985"/>
+    <CMSign id="1364" name="MED-100986"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>451</id>
+  <firstName>Selma</firstName>
+  <lastName>Doctors</lastName>
+  <loginName>selmadrs</loginName>
+  <phone>(334) 874-9064</phone>
+  <email>anosnih@selmadrscl.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="408" name="MED-100475"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1984"/>
+    <CustomMessage id="1979"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>452</id>
+  <firstName>Gary</firstName>
+  <lastName>Crowe</lastName>
+  <loginName>hillcountry</loginName>
+  <phone>(830) 816-2552</phone>
+  <email>garycrow75@gmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="95" name="MED-100104"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="1980"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>459</id>
+  <firstName>Sharon</firstName>
+  <lastName>Harrison</lastName>
+  <loginName>sterncardio</loginName>
+  <phone>901-605-4361</phone>
+  <email>sharon.harrison@sterncardio.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1735" name="MED-101179"/>
+    <CMSign id="26" name="MED-100022"/>
+    <CMSign id="1390" name="MED-101006"/>
+    <CMSign id="1340" name="MED-100966"/>
+    <CMSign id="27" name="MED-100021"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2003"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>484</id>
+  <firstName>Dawn </firstName>
+  <lastName>Thompson</lastName>
+  <loginName>dawnt</loginName>
+  <phone>(443) 471-3270</phone>
+  <email>dthompson@clinical-md.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="2167" name="MED-100412"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2016"/>
+    <CustomMessage id="2015"/>
+    <CustomMessage id="2011"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>485</id>
+  <firstName>Fast</firstName>
+  <lastName>Med</lastName>
+  <loginName>FastMed</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="4"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>487</id>
+  <firstName>Sean</firstName>
+  <lastName>Kelley</lastName>
+  <loginName>skelley</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="4"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>491</id>
+  <firstName>Parkside</firstName>
+  <lastName>OBGYN</lastName>
+  <loginName>parksideob</loginName>
+  <phone> (847) 825-1100</phone>
+  <email>parksideobgyn@hotmail.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1416" name="MED-101025"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2032"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>495</id>
+  <firstName>Ivete</firstName>
+  <lastName>Martinez</lastName>
+  <loginName>Ivetem</loginName>
+  <phone> (708) 344-0808</phone>
+  <email>ivetemartinez@sbc.global.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="318" name="MED-100366"/>
+    <CMSign id="611" name="MED-100683"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2042"/>
+    <CustomMessage id="2055"/>
+    <CustomMessage id="2043"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>497</id>
+  <firstName>Doctor's</firstName>
+  <lastName>Express</lastName>
+  <loginName>DocExpress</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="4"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>499</id>
+  <firstName>Beth</firstName>
+  <lastName>Patak</lastName>
+  <loginName>Providence1</loginName>
+  <phone>(937) 297-8999</phone>
+  <email>bpatak@provmedgroup.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="421" name="MED-100488"/>
+    <CMSign id="399" name="MED-100465"/>
+    <CMSign id="410" name="MED-100477"/>
+    <CMSign id="400" name="MED-100466"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2061"/>
+  </customMessages>
+  <Approver/>
+</CMUser><CMUser>
+  <id>501</id>
+  <firstName>Donny</firstName>
+  <lastName>Fordham</lastName>
+  <loginName>dfordham</loginName>
+  <phone>(706) 754-8811</phone>
+  <email>dfordham@myemc.net</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="322" name="MED-100371"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>502</id>
+  <firstName>Paul</firstName>
+  <lastName>Conlan</lastName>
+  <loginName>pconlan@everwell.com</loginName>
+  <phone/>
+  <email>pconlan@everwell.com</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="4"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>503</id>
+  <firstName>Tom</firstName>
+  <lastName>Morris</lastName>
+  <loginName>TomMorris</loginName>
+  <phone/>
+  <email/>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs/>
+  <customerId>361</customerId>
+  <cmrole id="4"/>
+  <customMessages/>
+  <Approver/>
+</CMUser><CMUser>
+  <id>506</id>
+  <firstName>Simone</firstName>
+  <lastName>Wheeler</lastName>
+  <loginName>Archview</loginName>
+  <phone>618-857-2700</phone>
+  <email>swheeler@touchette.org</email>
+  <activeInactive>true</activeInactive>
+  <passwordCounter>0</passwordCounter>
+  <signs>
+    <CMSign id="1683" name="MED-101128"/>
+  </signs>
+  <customerId>361</customerId>
+  <cmrole id="2"/>
+  <customMessages>
+    <CustomMessage id="2088"/>
+    <CustomMessage id="2090"/>
+  </customMessages>
+  <Approver/>
+</CMUser></cmuserList>

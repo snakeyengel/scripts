@@ -1,0 +1,79 @@
+<string>
+  <?xml version="1.0" encoding="UTF-8"?>
+  <UDSObjectList UDSObject="attachments">
+    <UDSObject>
+      <Handle>attmnt:551617</Handle>
+      <Attributes>
+        <Attribute DataType="2005">
+          <AttrName>IS URL</AttrName>
+          <AttrValue>0</AttrValue>
+        </Attribute>
+        <Attribute DataType="2004">
+          <AttrName>Created</AttrName>
+          <AttrValue>12/21/2011 4:36:12 PM</AttrValue>
+        </Attribute>
+        <Attribute DataType="2002">
+          <AttrName>File Type</AttrName>
+          <AttrValue>pdf</AttrValue>
+        </Attribute>
+        <Attribute DataType="2001">
+          <AttrName>File Size</AttrName>
+          <AttrValue>319997</AttrValue>
+        </Attribute>
+        <Attribute DataType="2002">
+          <AttrName>Orig. File Name</AttrName>
+          <AttrValue>Everwell_SOW_Field-Service_04-23-2010.pdf</AttrValue>
+        </Attribute>
+        <Attribute DataType="2002">
+          <AttrName>Name</AttrName>
+          <AttrValue>Field Service sow</AttrValue>
+        </Attribute>
+        <Attribute DataType="2002">
+          <AttrName>Status</AttrName>
+          <AttrValue>INSTALLED</AttrValue>
+        </Attribute>
+        <Attribute DataType="2005">
+          <AttrName>Deleted</AttrName>
+          <AttrValue>0</AttrValue>
+        </Attribute>
+      </Attributes>
+    </UDSObject>
+    <UDSObject>
+      <Handle>attmnt:551769</Handle>
+      <Attributes>
+        <Attribute DataType="2005">
+          <AttrName>IS URL</AttrName>
+          <AttrValue>0</AttrValue>
+        </Attribute>
+        <Attribute DataType="2004">
+          <AttrName>Created</AttrName>
+          <AttrValue>12/23/2011 11:09:00 AM</AttrValue>
+        </Attribute>
+        <Attribute DataType="2002">
+          <AttrName>File Type</AttrName>
+          <AttrValue>pdf</AttrValue>
+        </Attribute>
+        <Attribute DataType="2001">
+          <AttrName>File Size</AttrName>
+          <AttrValue>34962</AttrValue>
+        </Attribute>
+        <Attribute DataType="2002">
+          <AttrName>Orig. File Name</AttrName>
+          <AttrValue>710-EW-MED-100028-Signoff-201112221751.pdf</AttrValue>
+        </Attribute>
+        <Attribute DataType="2002">
+          <AttrName>Name</AttrName>
+          <AttrValue>710-EW-MED-100028-Signoff-201112221751.pdf</AttrValue>
+        </Attribute>
+        <Attribute DataType="2002">
+          <AttrName>Status</AttrName>
+          <AttrValue>INSTALLED</AttrValue>
+        </Attribute>
+        <Attribute DataType="2005">
+          <AttrName>Deleted</AttrName>
+          <AttrValue>0</AttrValue>
+        </Attribute>
+      </Attributes>
+    </UDSObject>
+  </UDSObjectList>
+</string>

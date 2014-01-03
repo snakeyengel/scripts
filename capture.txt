@@ -1,0 +1,36 @@
+<table border=0 width="431" bgcolor="#FFFFFF" cellspacing=0>
+
+                           <tr><td valign=top width="150"><b>Parts Supplied By</b></td><td bgcolor="#6699CC"></td><td valign=top width="280"><b>Wencor West, Inc.</b></td><td valign=top rowspan="10"></td></tr>
+                           <tr><td valign=top>Part Number</td>            <td bgcolor="#6699CC"></td><td valign=top>MS28775-014</td></tr>
+                           <tr><td valign=top>Noun</td>                   <td bgcolor="#6699CC"></td><td valign=top>PACKING, PREFORMED O RING</td></tr>
+                           <tr><td valign=top>Cage</td>                   <td bgcolor="#6699CC"></td><td valign=top>96906</td></tr>
+
+                           <tr><td valign=top>Unit of Measure</td>        <td bgcolor="#6699CC"></td><td valign=top>EA</td></tr>
+                           <tr><td valign=top><a HREF="javascript:window.open('https://www.wencor.com/webcatalog/partsearch.cgi/help?eccn=Y','','width=500,height=625'); void('');">
+                                              ECCN Code               </a></td>        <td bgcolor="#6699CC"></td><td valign=top>9A991d</td></tr>
+                           <tr><td valign=top>Reorder Lead Time</td>      <td bgcolor="#6699CC"></td><td valign=top>40 (Days)</td></tr>
+
+                           <tr><td valign=top>Std Package Qty</td>        <td bgcolor="#6699CC"></td><td valign=top>1</td></tr>                     
+                           <tr><td valign=top>Qty</td>                    <td bgcolor="#6699CC"></td><td valign=top>15</td></tr>
+                           <tr><td valign=top>Price</td>                  <td bgcolor="#6699CC"></td><td valign=top>$0.10 </td></tr>
+                           <tr><td valign=top>Next Break Price </td>      <td bgcolor="#6699CC"></td><td valign=top>160pcs/$0.09EA</td></tr>
+
+                         </tr>
+                       </table><table border=0 width="431" bgcolor="#FFFFFF" cellspacing=0>
+                           <tr><td valign=top width="150"><b>Parts Supplied By</b></td><td bgcolor="#336633"></td><td valign=top width="280"><b>Kitco, Inc.</b><b><font color="#FF0000">&nbsp;(Military End Use Only!)</font></b></td><td valign=top rowspan="10"></td></tr>
+                           <tr><td valign=top>Part Number</td>            <td bgcolor="#336633"></td><td valign=top>MS28775-014</td></tr>
+                           <tr><td valign=top>Noun</td>                   <td bgcolor="#336633"></td><td valign=top>PACKING, PREFORMED, HYDRA</td></tr>
+
+                           <tr><td valign=top>Cage</td>                   <td bgcolor="#336633"></td><td valign=top>96906</td></tr>
+                           <tr><td valign=top>Unit of Measure</td>        <td bgcolor="#336633"></td><td valign=top>EA</td></tr>
+                           <tr><td valign=top><a HREF="javascript:window.open('https://www.wencor.com/webcatalog/partsearch.cgi/help?eccn=Y','','width=500,height=625'); void('');">
+                                              ECCN Code               </a></td>        <td bgcolor="#336633"></td><td valign=top>9A991d</td></tr>
+
+                           <tr><td valign=top>Reorder Lead Time</td>      <td bgcolor="#336633"></td><td valign=top>6 (Days)</td></tr>
+                           <tr><td valign=top>Std Package Qty</td>        <td bgcolor="#336633"></td><td valign=top>1</td></tr>                     
+                           <tr><td valign=top>Qty</td>                    <td bgcolor="#336633"></td><td valign=top>15</td></tr>
+                           <tr><td valign=top>Price</td>                  <td bgcolor="#336633"></td><td valign=top>$0.11 </td></tr>
+
+                           <tr><td valign=top>Next Break Price </td>      <td bgcolor="#336633"></td><td valign=top>None</td></tr>
+                         </tr>
+                       </table>

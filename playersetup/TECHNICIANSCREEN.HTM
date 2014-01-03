@@ -1,0 +1,158 @@
+<HTML>
+<HEAD>
+<style type="text/css">
+body
+{
+	margin: 1em 1em 1em 1em;
+	background-color: #646F7A;
+}
+#header, #auxHeader
+{
+	position: relative;
+	float: right;
+	top: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: right;
+	clear: both;
+	margin-top:1em;
+}
+.main
+{
+	color:#fff;
+	font-size: 2.25em;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+.sub
+{
+	color:#000;
+	font-size: 1.35em;
+	font-weight: bold;
+}
+#btnDiv, #auxDiv
+{
+	clear: both;
+	background-color: #F9E4A7;
+	position: relative;
+	float:right;
+	top: auto;
+	width: 15em;
+	padding: 1em;
+}
+input
+{
+	width: 12em;
+	height: auto;
+	padding-left: .125em;
+	border: 1px solid #000;
+	font-size: 1.24em;
+	color: #000;
+	background-color: #6093AA;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	margin: 0 0 .125em 0;
+}
+</style>	
+<script language="JavaScript">
+var dKioskIdName,dKioskNameSerial;
+var oShell = new ActiveXObject("WScript.Shell");
+
+function func_setDateTimeZone(intTab){
+	NKTECH.setDateTimeZone(intTab);
+}
+
+function func_Reboot(){ 
+       var objWshShell = new ActiveXObject('WScript.Shell');
+       objWshShell.run("C:\\reboot\\reboot.bat")   
+}
+
+function func_executeShell(strShell){
+	NKTECH.executeShell(strShell);
+}
+
+function func_setComputerName(strComputerName){
+	NKTECH.setComputerName(strComputerName);
+}
+
+function changeComputerName()
+{
+	try{
+		 var strComputerName=prompt("Please enter a new computer name","").toUpperCase();
+		 if ( (strComputerName!="") && (strComputerName!=null) )
+		 {
+			var strConfirm=confirm("Do you want to change the computer name");
+			if (strConfirm==true)
+				func_setComputerName(strComputerName)
+			else
+				alert("Computer name is not updated");
+		 
+		 }	
+		 else
+				alert("Computer Name is not updated");
+	   }	
+	catch (e)
+	{
+		alert('error in changeComputerName(): ' + e.description);
+	}
+	
+}
+
+function doExplorer() {
+	oShell.Run('explorer.exe');
+}
+
+function installNetkey(){
+	var objWshShell = new ActiveXObject('WScript.Shell');
+	objWshShell.run("C:\\reboot\\setreboot.bat")
+	oShell.RegWrite('HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\DefaultUserName',"medivistalua");
+	oShell.RegDelete('HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\DefaultPassword');	 
+	oShell.RegWrite('HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\AutoAdminLogon',"1");
+	oShell.RegWrite('HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\Shell',"explorer.exe");
+
+	 oShell.run("C:\\MEDIVISTA_PLAYER_SETUP\\EnableNKAgent.bat")    
+
+	alert('Netkey Agent Successfully Enabled');
+}
+
+function func_volume(){
+	var objWshShell = new ActiveXObject('WScript.Shell');
+	objWshShell.run("SNDVOL32.exe")   
+}
+
+function func_setNetwork(){
+	NKTECH.setNetwork();
+}
+
+function func_setInternet(intTab){
+	NKTECH.setInternet(intTab);
+}
+
+function func_OpenCommandLine(){ 
+       var objWshShell = new ActiveXObject('WScript.Shell');
+       objWshShell.run("cmd.exe")   
+}
+</script>
+</HEAD>
+<BODY onLoad="doExplorer()">
+<OBJECT ID="NKTECH" CLASSID="CLSID:89945A24-FF5F-4275-B7D7-7DC518F30ECF" codebase="NKTECH.CAB#version=1,0,0,1" VIEWASTEXT></OBJECT>
+<div id="header">
+<span class="main">Everwell TV</span><br /><span class="sub">Media Player Setup</span>
+</div>
+<div id="btnDiv">
+<input type="button" value="Set computer name" id="btnCompName" onClick="changeComputerName();" /><br />
+<input type="button" value="Set date/time/timezone" id="btnDateTime" onclick="func_setDateTimeZone(0);" /><br />
+<input type="button" value="Verify volume" id="volcrtl" onclick="func_volume()" /><br />
+<input type="button" value="Start runtime & reboot" id="btnSetup" onClick="installNetkey();func_Reboot();" /><br />
+<input type="button" value="Reboot" id="btnReboot" onclick="func_Reboot();" />
+</div>
+<div id="auxHeader">
+<span class="sub">Special Config Options</span>
+</div>
+<div id="auxDiv">
+<input type="button" value="Set static IP address" id="btnNetwork" onclick="func_setNetwork()" /><br />
+<input type="button" value="IE proxy configuration" id="btnInt" onclick="func_setInternet(4)" /><br />
+<input type="button" value="Windows Explorer" id="btnexplorer" onClick="doExplorer()" /><br />
+<input type="button" value="Command line" id="btnexplorer" onClick="func_OpenCommandLine()" />
+</div>
+</BODY>
+</HTML>
